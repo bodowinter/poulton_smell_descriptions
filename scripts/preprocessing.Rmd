@@ -1,0 +1,265 @@
+---
+title: "Analysis of Thomas Poulton’s Descriptions"
+author: "Bodo Winter"
+date: "3/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Preprocessing
+
+Load data and packages:
+
+```{r, message = FALSE, warning = FALSE}
+# Packages:
+
+library(tidyverse)
+library(tidytext)
+library(vegan) # for entropy
+library(textreuse) # for document similarity
+
+# Data:
+
+smell <- read_csv('../data/02_coded-descriptions-IRR.csv')
+war <- read_csv('../data/warriner_2013_cleaned.csv')
+lyn <- read_csv('../data/lynott_norms.csv')
+```
+
+Clean column names:
+
+```{r}
+colnames(smell) <- str_to_lower(colnames(smell))
+colnames(smell)[3] <- 'ID'
+```
+
+Tokenize descriptions:
+
+```{r}
+tokens <- smell %>% unnest_tokens(Word, text)
+```
+
+Description length:
+
+```{r}
+lengths <- tokens %>% count(ID)
+```
+
+Merge this back into there:
+
+```{r}
+smell <- lengths %>%
+  rename(Length = n) %>%
+  right_join(smell)
+```
+
+How many smell descriptions had source-based language?
+
+```{r}
+sum(smell$source) # total sum
+sum(ifelse(smell$source >= 1, 1, 0))
+nrow(smell)
+sum(ifelse(smell$source >= 1, 1, 0)) / nrow(smell)
+```
+
+
+Merge this with Lynott & Connell (2009) norms:
+
+```{r}
+# Clean:
+
+lyn <- lyn %>%
+  select(Property, VisualStrengthMean:GustatoryStrengthMean,
+         DominantModality, ModalityExclusivity) %>% 
+  rename(Word = Property, Excl = ModalityExclusivity, Mod = DominantModality)
+
+# Simplify perceptual strength column names:
+
+colnames(lyn) <- str_replace(colnames(lyn), 'StrengthMean', '')
+
+# Join:
+
+tokens <- left_join(tokens, lyn)
+```
+
+Create absolute valence measure in the Warriner et al. (2013) data:
+
+```{r}
+war <- mutate(war, AbsVal = abs(Val_z))
+```
+
+Merge with valence:
+
+```{r}
+tokens <- left_join(tokens, war)
+```
+
+How many of those tokens are sensory adjectives from Lynott & Connell (2009)?
+
+```{r}
+sum(!is.na(tokens$Mod))
+sum(!is.na(tokens$Mod)) / nrow(tokens)
+```
+
+How many descriptions have at least one of the adjectives?
+
+```{r}
+filter(tokens, !is.na(Mod)) %>% count(ID) %>% nrow()
+length(unique(tokens$ID))
+
+# Proportion:
+filter(tokens, !is.na(Mod)) %>% count(ID) %>% nrow() / length(unique(tokens$ID))
+```
+
+For how many of the tokens do we have valence information?
+
+```{r}
+nrow(tokens)
+sum(!is.na(tokens$AbsVal))
+sum(!is.na(tokens$AbsVal)) / nrow(tokens)
+```
+
+How many descriptions have at least one of words with valence information?
+
+```{r}
+filter(tokens, !is.na(AbsVal)) %>% count(ID) %>% nrow()
+length(unique(tokens$ID))
+
+# Proportion:
+filter(tokens, !is.na(AbsVal)) %>% count(ID) %>% nrow() / length(unique(tokens$ID))
+```
+
+Calculate average valence and absolute per description:
+
+```{r}
+smell <- tokens %>% group_by(ID) %>% 
+  summarize(Val_z = mean(Val_z, na.rm = TRUE),
+            AbsVal = mean(AbsVal, na.rm = TRUE),
+            Visual = mean(Visual, na.rm = TRUE),
+            Haptic = mean(Haptic, na.rm = TRUE),
+            Auditory = mean(Auditory, na.rm = TRUE),
+            Gustatory = mean(Gustatory, na.rm = TRUE),
+            Olfactory = mean(Olfactory, na.rm = TRUE)) %>% right_join(smell)
+```
+
+Multisensory without taste and smell words measure:
+
+```{r}
+tokens_nochem <- tokens %>% filter(!(Mod %in% c('Gustatory', 'Olfactory')))
+```
+
+Calculate exclusivity:
+
+```{r}
+smell <- tokens_nochem %>% group_by(ID) %>% 
+  summarize(Excl_nochem = mean(Excl, na.rm = TRUE)) %>% right_join(smell)
+```
+
+## Calculate entropy:
+
+Get rid of stop words:
+
+```{r}
+no_stops <- tokens %>% anti_join(stop_words, by = c('Word' = 'word'))
+```
+
+Spread the words:
+
+```{r}
+no_stops <- no_stops %>% select(scent, Word)
+
+scent_word <- no_stops %>% count(scent, Word) %>% spread(key = 'Word', value = 'n', fill = 0)
+```
+
+Calculate entropy:
+
+```{r}
+entropies <- diversity(scent_word, index = 'shannon', MARGIN = 1)
+scents <- arrange(smell, scent) %>% pull(scent) %>% unique()
+scents <- tibble(scent = scents, TextEntropy = entropies)
+```
+
+## Calculate Jaccard similarity across descriptions:
+
+Get Jaccard similarity for each element:
+
+```{r}
+tokens_nostop <- anti_join(tokens, stop_words, by = c('Word' = 'word'))
+```
+
+Compute Jaccard similarity across descriptions for each smell:
+
+```{r}
+all_smells <- unique(tokens_nostop$scent)
+smell_avg <- numeric(length(all_smells))
+for (i in seq_along(all_smells)) {
+  this_smell <- filter(tokens_nostop, scent == all_smells[i])
+  
+  # Extract IDs from this:
+  
+  all_IDS <- unique(this_smell$ID)
+  
+  # Create a similarity matrix for the number of IDS:
+  
+  M <- matrix(numeric(length(all_IDS) * length(all_IDS)), nrow = length(all_IDS))
+  
+  for (j in seq_along(all_IDS)) {
+    this_ID <- all_IDS[j]
+    this_words <- filter(this_smell, ID == this_ID)$Word
+    # other_IDs <- all_IDS[all_IDS != this_ID]
+    for (k in seq_along(all_IDS)) {
+      comparison_words <- filter(this_smell, ID == all_IDS[k])$Word
+      M[j, k] <- jaccard_similarity(this_words, comparison_words)
+    }
+  }
+  # Compute average across entire matrix (without diagonal, which is always 1):
+  
+  diag(M) <- NA
+  smell_avg[i] <- mean(M, na.rm = TRUE)
+}
+```
+
+Put those into a table:
+
+```{r}
+scent_sim <- tibble(scent = all_smells, jaccard = smell_avg)
+```
+
+Join with other measures:
+
+```{r}
+scents <- left_join(scent_sim, scents)
+```
+
+## Create averages table:
+
+Averages:
+
+```{r}
+scents <- smell %>%
+  group_by(scent) %>% 
+  summarize(Length = mean(Length, na.rm = TRUE),
+    Val_z = mean(Val_z, na.rm = TRUE),
+    AbsVal = mean(AbsVal, na.rm = TRUE),
+    Visual = mean(Visual, na.rm = TRUE),
+    Haptic = mean(Haptic, na.rm = TRUE),
+    Auditory = mean(Auditory, na.rm = TRUE),
+    Gustatory = mean(Gustatory, na.rm = TRUE),
+    Olfactory = mean(Olfactory, na.rm = TRUE),
+    Source = mean(source),
+    Abstract = mean(abstract),
+    Excl_nochem = mean(Excl_nochem, na.rm = TRUE)) %>%
+  right_join(scents)
+```
+
+Outsource table:
+
+```{r}
+write_csv(scents, '../data/by_scent_cleaned.csv')
+```
+
+
+
+

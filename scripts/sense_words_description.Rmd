@@ -1,0 +1,166 @@
+---
+title: "Analysis of Thomas Poulton’s Descriptions"
+author: "Bodo Winter"
+date: "3/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Analysis of sensory words:
+
+Load data and packages:
+
+```{r, message = FALSE, warning = FALSE}
+# Packages:
+
+library(MASS) # for negative binomial model
+library(tidyverse)
+library(tidytext)
+library(lme4)
+
+# Data:
+
+smell <- read_csv('../data/02_coded-descriptions-IRR.csv')
+lyn <- read_csv('../data/lynott_norms.csv')
+```
+
+Clean column names:
+
+```{r}
+colnames(smell) <- str_to_lower(colnames(smell))
+colnames(smell)[3] <- 'ID'
+```
+
+Tokenize descriptions:
+
+```{r}
+tokens <- smell %>% unnest_tokens(Word, text)
+```
+
+Description length:
+
+```{r}
+lengths <- tokens %>% count(ID)
+```
+
+Merge this with Lynott & Connell (2009) norms:
+
+```{r}
+# Clean:
+
+lyn <- lyn %>%
+  dplyr::select(Property, VisualStrengthMean:GustatoryStrengthMean,
+         DominantModality, ModalityExclusivity) %>% 
+  rename(Word = Property, Excl = ModalityExclusivity, Mod = DominantModality)
+
+# Simplify perceptual strength column names:
+
+colnames(lyn) <- str_replace(colnames(lyn), 'StrengthMean', '')
+
+# Join:
+
+tokens <- left_join(tokens, lyn)
+```
+
+Add number of sensory adjectives per each scent:
+
+```{r}
+scent_modality <- tokens %>% 
+  count(scent, Mod) %>%
+  filter(!is.na(Mod)) %>% 
+  spread(value = 'n', key = 'Mod', fill = 0)
+```
+
+How many scents have X modality been used to describe it?
+
+```{r}
+# Counts:
+
+mod_counts <- apply(scent_modality[, -1], 2, FUN = function(x) sum(x != 0))
+Auditory <- 0
+names(Auditory) <- 'Auditory'
+mod_counts <- c(mod_counts, Auditory)
+mod_counts
+
+# Percentages:
+
+str_c(round(mod_counts / 42, 2) * 100, '%')
+```
+
+Chi-square test of distribution of sensory words:
+
+```{r}
+chisq.test(mod_counts)
+```
+
+How many sensory words are used on average per sense:
+
+```{r}
+round(colMeans(scent_modality[, -1]), 1)
+```
+
+Create a negative binomial model for this:
+
+```{r}
+sense_counts <- tokens %>% 
+  count(scent, Mod) %>%
+  filter(!is.na(Mod))
+```
+
+Unequal distribution:
+
+```{r}
+pois_mdl <- glmer(n ~ Mod + (1|scent), data = sense_counts, family = 'poisson')
+pois_null <- glmer(n ~ 1 + (1|scent), data = sense_counts, family = 'poisson')
+anova(pois_null, pois_mdl)
+```
+
+## What are the adjectives?
+
+Extract unique types per sensory modality:
+
+```{r}
+# Gustatory words:
+
+gus_words <- sort(unique(filter(tokens, Mod == 'Gustatory')$Word))
+
+# Olfactory words:
+
+olf_words <- sort(unique(filter(tokens, Mod == 'Olfactory')$Word))
+
+# Haptic words:
+
+hap_words <- sort(unique(filter(tokens, Mod == 'Haptic')$Word))
+
+# Visual words:
+
+vis_words <- sort(unique(filter(tokens, Mod == 'Visual')$Word))
+```
+
+Print:
+
+```{r}
+gus_words
+olf_words
+hap_words
+vis_words
+```
+
+Compare these visual words to the baseline visual words in Lynott & Connell (2009):
+
+```{r}
+mean(filter(lyn, Word %in% vis_words)$Excl)
+mean(filter(lyn, Mod == 'Visual')$Excl)
+
+t.test(filter(lyn, Word %in% vis_words)$Excl, filter(lyn, Mod == 'Visual', !(Word %in% vis_words))$Excl,
+       var.equal = TRUE)
+```
+
+
+
+
+
+

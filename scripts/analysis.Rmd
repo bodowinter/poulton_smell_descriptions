@@ -1,0 +1,362 @@
+---
+title: "Analysis of Thomas Poulton’s Descriptions"
+author: "Bodo Winter"
+date: "3/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Preprocessing
+
+Load data and packages:
+
+```{r, message = FALSE, warning = FALSE}
+# Packages:
+
+library(tidyverse)
+library(tidytext)
+library(lavaan)
+library(effsize)
+library(corrplot)
+library(gridExtra)
+
+# Data:
+
+scents <- read_csv('../data/by_scent_cleaned.csv')
+war <- read_csv('../data/warriner_2013_cleaned.csv')
+lyn <- read_csv('../data/lynott_norms.csv')
+```
+
+## Confirmatory factor analysis of codability:
+
+Z-score variables that enter the CFA:
+
+```{r}
+scents <- mutate(scents,
+                 Length_z = scale(Length),
+                 TextEntropy_z = scale(TextEntropy),
+                 Jaccard_z = scale(jaccard))
+```
+
+
+Create formula for latent variable 'codability' that is indicated by the three measures (length, text entropy, and inter-speaker agreement measured by jaccard similarity).
+
+```{r}
+CFA_formula <- 'Codability =~ Length_z + TextEntropy_z + Jaccard_z'
+```
+
+Fit this CFA:
+
+```{r}
+CFA_fit <- cfa(CFA_formula, data = scents)
+CFA_fit
+```
+
+Summarize it:
+
+```{r}
+summary(CFA_fit, fit.measures = TRUE, standardized = TRUE)
+```
+
+## Structural equation model with haptic:
+
+Haptic SEM formula, regressing haptic ratings per description onto the latent factor codability:
+
+```{r}
+haptic_SEM_formula <- '
+  # measurement model:
+  Codability =~ Length_z + TextEntropy_z + Jaccard_z
+
+  # regression:
+  Haptic ~ Codability'
+```
+
+Fit SEM:
+
+```{r}
+haptic_SEM_fit <- cfa(haptic_SEM_formula, data = scents)
+```
+
+Summarize:
+
+```{r}
+summary(haptic_SEM_fit)
+```
+
+R-squared:
+
+```{r}
+inspect(haptic_SEM_fit, 'r2')
+```
+
+## Structural equation model with source-based:
+
+Scale source:
+
+```{r}
+scents <- mutate(scents,
+                 Source_z = Source - mean(Source),
+                 Source_z = Source_z / sd(Source_z))
+```
+
+Source SEM formula, regressing haptic ratings per description onto the latent factor codability:
+
+```{r}
+source_SEM_formula <- '
+  # measurement model:
+  Codability =~ Length_z + TextEntropy_z + Jaccard_z
+
+  # regression:
+  Source_z ~ Codability'
+```
+
+Fit SEM:
+
+```{r}
+source_SEM_fit <- cfa(source_SEM_formula, data = scents)
+```
+
+Summarize:
+
+```{r}
+summary(source_SEM_fit)
+```
+
+Need to investigate warning messages.
+
+Check AICs of the CFA versus the two SEMs:
+
+```{r}
+AIC(CFA_fit)
+AIC(source_SEM_fit)
+AIC(haptic_SEM_fit)
+```
+
+Is this actually interpretable? (not sure what counts as the metric in an SEM context)
+
+Double check:
+
+```{r}
+CFA_scores <- predict(CFA_fit)[, 1]
+summary(lm(scents$Source ~ CFA_scores))
+summary(lm(scents$Haptic ~ CFA_scores))
+```
+
+## Analysis of efficient codability measures:
+
+First, extract those:
+
+```{r}
+codability <- select(scents, jaccard, TextEntropy, Length)
+```
+
+Correlate these with each other:
+
+```{r}
+corrs <- cor(codability)
+```
+
+What are the correlations?
+
+```{r}
+round(corrs, 2)
+```
+
+Extract a conjoined measure. First, z-score:
+
+```{r}
+codability_z <- apply(codability, 2, FUN = scale)
+```
+
+Perform a PCA on this:
+
+```{r}
+cod_PCA <- prcomp(codability_z, center = TRUE, scale = TRUE)
+```
+
+Check variance explained:
+
+```{r}
+summary(cod_PCA)
+```
+
+Check loadings:
+
+```{r}
+round(cod_PCA$rotation, 2)
+```
+
+Get the first component:
+
+```{r}
+scents$Codability <- cod_PCA$x[, 1]
+```
+
+
+## Correlate codability with the rest:
+
+Check codability correlations with the different sensory modalities:
+
+```{r}
+with(scents, cor.test(Codability, Haptic))
+with(scents, cor.test(Codability, Olfactory))
+with(scents, cor.test(Codability, Gustatory))
+with(scents, cor.test(Codability, Visual))
+with(scents, cor.test(Codability, Auditory))
+```
+
+Do haptic and exclusivity correlate?
+
+```{r}
+with(scents, cor.test(Haptic, Excl_nochem))
+```
+
+Check correlations with source:
+
+```{r}
+with(scents, cor.test(Codability, Source))
+with(scents, cor.test(Codability, Excl_nochem))
+```
+
+What about Source and haptic?
+
+```{r}
+with(scents, cor.test(Haptic, Source))
+with(scents, cor.test(Source, Abstract))
+with(scents, cor.test(Haptic, Abstract))
+```
+
+
+## Against baseline comparisons:
+
+Exclusivity against with baseline:
+
+```{r}
+chem <- c('Gustatory', 'Olfactory')
+
+mean(scents$Excl_nochem, na.rm = TRUE)
+mean(filter(lyn, !DominantModality %in% chem)$ModalityExclusivity)
+
+t.test(scents$Excl_nochem, filter(lyn, !DominantModality %in% chem)$ModalityExclusivity, var.equal = TRUE)
+```
+
+Effect size:
+
+```{r}
+cohen.d(scents$Excl_nochem, filter(lyn, !DominantModality %in% chem)$ModalityExclusivity, paired = FALSE, na.rm = TRUE)
+```
+
+Absolute valence against baseline:
+
+```{r}
+mean(scents$AbsVal, na.rm = TRUE)
+mean(abs(war$Val_z))
+
+t.test(scents$AbsVal, abs(war$Val_z), var.equal = TRUE)
+```
+
+Effect size:
+
+```{r}
+cohen.d(scents$AbsVal, abs(war$Val_z), paired = FALSE, na.rm = TRUE)
+```
+
+Valence against baseline:
+
+```{r}
+mean(scents$Val_z, na.rm = TRUE)
+mean(war$Val_z)
+
+t.test(scents$Val_z, mu = mean(war$Val_z))
+```
+
+## Make plots of these distributions:
+
+Put both together for comparison, absolute valence:
+
+```{r}
+# Extract valence only:
+
+absval_only <- select(scents, AbsVal)
+absval_only$Type <- 'Smell descriptions'
+
+# Extract valence from warriner data frame:
+
+absval_baseline <- war %>%
+  mutate(AbsVal = abs(Val_z)) %>% 
+  select(AbsVal)
+absval_baseline$Type <- 'Warriner et al. (2013)'
+
+# Merge:
+
+absval <- bind_rows(absval_only, absval_baseline)
+```
+
+Make a plot of this:
+
+```{r, fig.width = 10, fig.height = 6}
+absval %>% ggplot(aes(x = AbsVal, fill = Type)) +
+  geom_density(alpha = 0.5) + scale_fill_viridis_d() +
+  theme_minimal() +
+  xlab('Absolute valence') +
+  ylab('Density') +
+  theme_minimal() + 
+  theme(axis.text.x = element_text(face = 'bold', size = 12),
+        axis.text.y = element_text(face = 'bold', size = 12),
+        axis.title.x = element_text(face = 'bold', size = 16,
+                                    margin = margin(t = 20, r = 0, b = 0, l = 0)),
+        axis.title.y = element_text(face = 'bold', size = 16,
+                                    margin = margin(t = 0, r = 20, b = 0, l = 0)),
+        plot.title = element_text(face = 'bold', size = 22),
+        legend.title = element_blank())  
+
+ggsave('../figures/absolute_valence.pdf', width = 9, height = 6)
+```
+
+Put both together for comparison, modality exclusivity:
+
+```{r}
+# Extract valence only:
+
+excl_only <- select(scents, Excl_nochem)
+excl_only$Type <- 'Smell descriptions'
+excl_only <- excl_only %>% rename(Excl = Excl_nochem)
+
+# Extract valence from warriner data frame:
+
+excl_baseline <- lyn %>%
+  filter(!(DominantModality %in% chem)) %>% 
+  rename(Excl = ModalityExclusivity) %>% 
+  select(Excl)
+excl_baseline$Type <- 'Lynott & Connell (2009)'
+
+# Merge:
+
+excl <- bind_rows(excl_only, excl_baseline)
+```
+
+Make a plot of this:
+
+```{r, fig.width = 10, fig.height = 6}
+excl %>% ggplot(aes(x = Excl, fill = Type)) +
+  geom_density(alpha = 0.5) +
+  scale_fill_viridis_d() +
+  xlab('Modality exclusivity') +
+  ylab('Density') +
+  theme_minimal() + 
+  theme(axis.text.x = element_text(face = 'bold', size = 12),
+        axis.text.y = element_text(face = 'bold', size = 12),
+        axis.title.x = element_text(face = 'bold', size = 16,
+                                    margin = margin(t = 20, r = 0, b = 0, l = 0)),
+        axis.title.y = element_text(face = 'bold', size = 16,
+                                    margin = margin(t = 0, r = 20, b = 0, l = 0)),
+        plot.title = element_text(face = 'bold', size = 22),
+        legend.title = element_blank())  
+ggsave('../figures/exclusivity_valence.pdf', width = 9, height = 6)
+```
+
+
+
