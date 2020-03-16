@@ -1,0 +1,1527 @@
+PARTICIPANT,SCENT,DESCRIPTOIN NO.,TEXT,SOURCE,POSITIVE,NEGATIVE,STRONG,WEAK,ABSTRACT,FAMILIAR,UNFAMILIAR,EFFECT,COMPOSITION
+8,Chamomile,1758,floral,1,0,0,0,0,0,0,0,0,0
+8,Musk,1759,"it's gentle, more woody",1,0,0,0,0,1,0,0,0,0
+8,Musk,1760,not unlike an incense,1,0,0,0,0,0,0,0,0,0
+8,Orange Blossom,1761,this one feels sharper,0,0,0,0,0,1,0,0,0,0
+8,Guaiacol,1762,really struggling to get anything out of this one,0,0,0,0,1,0,0,0,0,0
+8,Guaiacol,1763,"I'm struggling to get the scent out of it, I'll use the coffee and come back to it",0,0,0,0,1,0,0,0,0,0
+8,Guaiacol,1764,"delicate, botanical",0,0,0,0,0,2,0,0,0,0
+8,Green Fig,1765,mango and something else,1,0,0,0,0,0,0,0,0,0
+8,Cedar,1766,this one smells like a cleaning product,1,0,0,0,0,0,0,0,0,0
+8,Floral Ozone,1767,I'm struggling to find words for this one,0,0,0,0,0,0,0,0,0,0
+8,Floral Ozone,1768,"it smells cool and nocturnal, is that useful?",0,0,0,0,0,2,0,0,0,0
+8,Clove,1769,medicinal,1,0,0,0,0,0,0,0,0,0
+8,Lily of the Valley,1770,"this one i like, much more gentle floral",1,0,0,0,0,1,0,0,0,0
+8,Cedramber,1771,maybe sandy,1,0,0,0,0,0,0,0,0,0
+8,Almond,1772,um synthetic,0,0,0,0,0,0,0,0,0,1
+8,Wintergreen,1773,this one smells like palliative care,1,0,0,0,0,0,0,0,0,0
+8,Geranium,1774,"a weird one, soapy but also acrid",1,0,1,1,0,1,0,0,0,0
+8,Dark Oud,1775,like the burning fragrant woods for a religious ceremony,2,0,0,0,0,0,0,0,0,0
+8,Honeysuckle,1776,light and floral,1,0,0,0,0,1,0,0,0,0
+8,Honeysuckle,1777,smells like an older relative,1,0,0,0,0,0,0,0,0,0
+8,Patchouli,1778,smells like tea tree,1,0,0,0,0,0,0,0,0,0
+8,Ambergris,1779,old leather,1,0,0,0,0,1,0,0,0,0
+8,Grapefruit,1780,like orange,1,0,0,0,0,0,0,0,0,0
+8,Nutmeg,1781,like olive leaf extract,1,0,0,0,0,0,0,0,0,0
+8,Apricot,1782,smells like a baby,1,0,0,0,0,0,0,0,0,0
+8,Sandalwood,1783,like the inside of a medicine cabinet,1,0,0,0,0,0,0,0,0,0
+8,Ginger,1784,"like fruit, maybe peaches",2,0,0,0,0,0,0,0,0,0
+8,Labdanum,1785,like a candle burning,1,0,0,0,0,0,0,0,0,0
+8,Lavender,1786,like old shoes,1,0,0,0,0,1,0,0,0,0
+8,Geosmin,1787,like pine,1,0,0,0,0,0,0,0,0,0
+8,Civet,1788,like a urinal,1,0,0,0,0,0,0,0,0,0
+8,Frankincense,1789,lemon,1,0,0,0,0,0,0,0,0,0
+8,Wattle,1790,fruity. maybe kiwi,2,0,0,0,0,0,0,0,0,0
+8,Cardamom,1791,like wood polish,1,0,0,0,0,0,0,0,0,0
+8,White Musk,1792,like a forest after rain,2,0,0,0,0,0,0,0,0,0
+8,Mint,1793,like mint,1,0,0,0,0,0,0,0,0,0
+8,Vetiver,1794,like craft glue,1,0,0,0,0,0,0,0,0,0
+8,Lilac,1795,strawberries?,1,0,0,0,0,0,0,0,0,0
+8,Leather,1796,baby powder,1,0,0,0,0,0,0,0,0,0
+8,Magnolia,1797,like a nectarine,1,0,0,0,0,0,0,0,0,0
+8,Caraway Seed,1798,sandalwood,1,0,0,0,0,0,0,0,0,0
+8,White Tea,1799,like old books,1,0,0,0,0,1,0,0,0,0
+8,Sweet Vanilla,1800,like cream,1,0,0,0,0,0,0,0,0,0
+8,Rosewood,1801,like make-up,1,0,0,0,0,0,0,0,0,0
+8,Sea Minerals,1802,like fish,1,0,0,0,0,0,0,0,0,0
+11,Rosewood,2256,its like,0,0,0,0,0,0,0,0,0,0
+11,Rosewood,2257,floral lemony kind of smell,2,0,0,0,0,0,0,0,0,0
+11,Rosewood,2258,its like in between a floewr and a lemon,2,0,0,0,0,0,0,0,0,0
+11,Civet,2259,its like a soap store,1,0,0,0,0,0,0,0,0,0
+11,Civet,2260,"or like somewhere that smells soap, smells like that",1,0,0,0,0,0,0,0,0,0
+11,Grapefruit,2261,smells like eucalyptus,1,0,0,0,0,0,0,0,0,0
+11,Cardamom,2262,smells like vicks mixed with chocolate,2,0,0,0,0,0,0,0,0,0
+11,Green Fig,2263,stale grassy smell,1,0,0,0,0,1,0,0,0,0
+11,Wintergreen,2264,like the heat rub you put on sore muscles,1,0,0,0,0,0,0,0,0,0
+11,Caraway Seed,2265,its like chewed gum,1,0,0,0,0,0,0,0,0,0
+11,Caraway Seed,2266,chewed mint gum,2,0,0,0,0,0,0,0,0,0
+11,Floral Ozone,2267,its like a really really light floral smell,1,0,0,0,0,1,0,0,0,0
+11,White Tea,2268,smells like soap,1,0,0,0,0,0,0,0,0,0
+11,Chamomile,2269,nail polish remover,1,0,0,0,0,0,0,0,0,0
+11,Cedar,2270,nail polish remover,1,0,0,0,0,0,0,0,0,0
+11,Lavender,2271,a scented cleaning product,1,0,0,0,0,0,0,0,0,0
+11,Lavender,2272,like lemon lime scent,2,0,0,0,0,0,0,0,0,0
+11,Ambergris,2273,talcom powder,1,0,0,0,0,0,0,0,0,0
+11,Dark Oud,2274,smells like some medicinal ointment,1,0,0,0,0,0,0,0,0,0
+11,Dark Oud,2275,like yeah,0,0,0,0,0,0,0,0,0,0
+11,Mint,2276,spearmint gum,1,0,0,0,0,0,0,0,0,0
+11,Clove,2277,its like stale and spicy,1,0,0,0,0,1,0,0,0,0
+11,Orange Blossom,2278,"its like a scented, flower scented soap",2,0,0,0,0,0,0,0,0,0
+11,Leather,2279,smells like a gender neutral perfume,1,0,0,0,0,0,0,0,0,0
+11,Lilac,2280,roses,1,0,0,0,0,0,0,0,0,0
+11,Labdanum,2281,its like a little bit chocolatey,1,0,0,0,0,0,0,0,0,0
+11,Labdanum,2282,and a little bit spicy,1,0,0,0,0,0,0,0,0,0
+11,Wattle,2283,its like lavender soap,2,0,0,0,0,0,0,0,0,0
+11,Patchouli,2284,smells like the heat,1,0,0,0,0,0,0,0,0,0
+11,Patchouli,2285,umm medicine thing for muscles again just not as strong as the previous one,1,0,0,0,0,0,0,0,0,0
+11,Honesuckle,2286,smells like a rose soap,2,0,0,0,0,0,0,0,0,0
+11,Geranium,2287,smells like candy with a strong citrus flavour,2,0,0,1,0,0,0,0,0,0
+11,Musk,2288,soap again but its a mix of different flower scents,2,0,0,0,0,0,0,0,0,0
+11,Sandalwood,2289,smells like grass clippings mixed with the heat muscle rub thing,2,0,0,0,0,0,0,0,0,0
+11,Magnolia,2290,smells like some kind of womens perfume,1,0,0,0,0,0,0,0,0,0
+11,Nutmeg,2291,its the heat rub again,1,0,0,0,0,0,0,0,0,0
+11,Nutmeg,2292,but its a staler smell,0,0,0,0,0,1,0,0,0,0
+11,Sea Minerals,2293,its another womens perfume,1,0,0,0,0,0,0,0,0,0
+11,Sea Minerals,2294,but it has kind of a soft smell,0,0,0,0,0,1,0,0,0,0
+11,Guaiacol,2295,its a chemical kinda smell,0,0,0,0,0,1,0,0,0,0
+11,Guaiacol,2296,but its hard to pick,0,0,0,0,0,0,0,0,0,0
+11,Guaiacol,2297,its just very faint,0,0,0,0,1,0,0,0,0,0
+11,Sweet Vanilla,2298,butterscotch lollies,1,0,0,0,0,0,0,0,0,0
+11,Lily of the Valley,2299,its a rose soap,2,0,0,0,0,0,0,0,0,0
+11,Lily of the Valley,2300,but its has a strong stronger,0,0,0,2,0,0,0,0,0,0
+11,Almond,2301,smells like childrens panadol syrup,1,0,0,0,0,0,0,0,0,0
+11,Vetiver,2302,its the heat rub for muscles again,1,0,0,0,0,0,0,0,0,0
+11,Ginger,2303,strong citrus flavour smell scent,1,0,0,1,0,0,0,0,0,0
+11,Geosmin,2304,really stale grass clippings,1,0,0,0,0,1,0,0,0,0
+11,Frankincense,2305,smells like vicks,1,0,0,0,0,0,0,0,0,0
+11,Cedramber,2306,its a really faint smell of paint,1,0,0,0,1,0,0,0,0,0
+11,Apricot,2307,its in between a soap and a perfume,2,0,0,0,0,0,0,0,0,0
+11,White Musk,2308,a really strong soap smell,1,0,0,1,0,0,0,0,0,0
+12,Labdanum,2309,smells dark,0,0,0,0,0,1,0,0,0,0
+12,Labdanum,2310,its dark,0,0,0,0,0,1,0,0,0,0
+12,Labdanum,2311,a bit woody Id say,1,0,0,0,0,0,0,0,0,0
+12,Labdanum,2312,and,0,0,0,0,0,0,0,0,0,0
+12,Labdanum,2313,I dont know,0,0,0,0,0,0,0,0,0,0
+12,Labdanum,2314,smells a bit like chinese medicine as well,1,0,0,0,0,0,0,0,0,0
+12,Labdanum,2315,a bit peppery,1,0,0,0,0,0,0,0,0,0
+12,Geranium,2316,smells a bit like soap,1,0,0,0,0,0,0,0,0,0
+12,Geranium,2317,like soap what type of soap,1,0,0,0,0,0,0,0,0,0
+12,Geranium,2318,very familar,0,0,0,0,0,0,1,0,0,0
+12,Geranium,2319,very familiar,0,0,0,0,0,0,1,0,0,0
+12,Geranium,2320,oh umm whats that flavour,0,0,0,0,0,0,0,0,0,0
+12,Geranium,2321,like a blossom hand soap id say,2,0,0,0,0,0,0,0,0,0
+12,Geranium,2322,a blossom hand soap,2,0,0,0,0,0,0,0,0,0
+12,Geranium,2323,blossom hand smell,2,0,0,0,0,0,0,0,0,0
+12,Clove,2324,smells like tea umm,1,0,0,0,0,0,0,0,0,0
+12,Clove,2325,a bit darker type of ginseng,1,0,0,0,0,1,0,0,0,0
+12,Clove,2326,darker type of tea,1,0,0,0,0,1,0,0,0,0
+12,Clove,2327,ginseng tea id say,1,0,0,0,0,0,0,0,0,0
+12,Cedramber,2328,smells a bit leafy and umm,1,0,0,0,0,0,0,0,0,0
+12,Cedramber,2329,yeah leafy id say,1,0,0,0,0,0,0,0,0,0
+12,Cedramber,2330,and a bit of sweet,0,0,0,0,0,1,0,0,0,0
+12,Frankincense,2331,a bit spicy sweet,1,0,0,0,0,1,0,0,0,0
+12,Frankincense,2332,smells like a light eucalyptus,1,0,0,0,0,1,0,0,0,0
+12,Frankincense,2333,a light eucalyptus,1,0,0,0,0,1,0,0,0,0
+12,Magnolia,2334,smells a bit like my mums things whats it called,1,0,0,0,0,0,0,0,0,0
+12,Magnolia,2335,that powder id say,1,0,0,0,0,0,0,0,0,0
+12,Magnolia,2336,smells like my mums powder but its a bit peachy id say,2,0,0,0,0,0,0,0,0,0
+12,Magnolia,2337,sweet,0,0,0,0,0,1,0,0,0,0
+12,Dark Oud,2338,bold dark,0,0,0,0,0,2,0,0,0,0
+12,Dark Oud,2339,strong scent,0,0,0,1,0,0,0,0,0,0
+12,Dark Oud,2340,but i cant think of what its similar to,0,0,0,0,0,0,0,0,0,0
+12,Floral Ozone,2341,a bit spicy scent,1,0,0,0,0,0,0,0,0,0
+12,Leather,2342,i feel like im smelling the same thing,1,0,0,0,0,0,0,0,0,0
+12,Leather,2343,can it be no response,0,0,0,0,0,0,0,0,0,0
+12,Leather,2344,so it has to be something,0,0,0,0,0,0,0,0,0,0
+12,Leather,2345,sweet a bit of leafy,1,0,0,0,0,1,0,0,0,0
+12,Ambergris,2346,smells like perfume but i cant describe what type of perfume it is,1,0,0,0,0,0,0,0,0,0
+12,Ambergris,2347,sweet bitter perfume,1,0,0,0,0,2,0,0,0,0
+12,Ambergris,2348,i dont think theres a .... but its like a perfume,1,0,0,0,0,0,0,0,0,0
+12,Caraway Seed,2349,liqourice,1,0,0,0,0,0,0,0,0,0
+12,Caraway Seed,2350,liqourice type of scent,1,0,0,0,0,0,0,0,0,0
+12,Sandalwood,2351,bit of a minty hand soap bath,3,0,0,0,0,0,0,0,0,0
+12,Sandalwood,2352,slight minty,1,0,0,0,0,0,0,0,0,0
+12,White Tea,2353,the transition from a flower to a hand soap,2,0,0,0,0,0,0,0,0,0
+12,Lilac,2354,flowery sweet scent,1,0,0,0,0,1,0,0,0,0
+12,Geosmin,2355,a bit spicy but more sweet scent,1,0,0,0,0,1,0,0,0,0
+12,Lavender,2356,smells like my mums foundation actually,1,0,0,0,0,0,0,0,0,0
+12,Lavender,2357,sweet and a bit of a kick of spice id say,1,0,0,0,0,1,0,0,0,0
+12,Vetiver,2358,smells like old bark id say old bark,2,0,0,0,0,2,0,0,0,0
+12,Musk,2359,hand bar soap,1,0,0,0,0,0,0,0,0,0
+12,Musk,2360,the blue flavour i forget what the blue flavour was ,1,0,0,0,0,0,0,0,0,0
+12,Musk,2361,whats the blue flavour,1,0,0,0,0,0,0,0,0,0
+12,Musk,2362,yeah some blue flavour,1,0,0,0,0,0,0,0,0,0
+12,Musk,2363,ill see if i can remember,0,0,0,0,0,0,0,0,0,0
+12,Wattle,2364,artifical rose perfume,2,0,0,0,0,0,0,0,0,1
+12,Patchouli,2365,old chinese bark medicine,2,0,0,0,0,1,0,0,0,0
+12,Honesuckle,2366,potpurrui smell,1,0,0,0,0,0,0,0,0,0
+12,Honesuckle,2367,smell like sweet id say,0,0,0,0,0,1,0,0,0,0
+12,Wintergreen,2368,old bitter spice eucalyptus leaves,2,0,0,0,0,2,0,0,0,0
+12,Sea Minerals,2369,black pine,1,0,0,0,0,0,0,0,0,0
+12,Sea Minerals,2370,those car deoderants,1,0,0,0,0,0,0,0,0,0
+12,Mint,2371,spicy,1,0,0,0,0,0,0,0,0,0
+12,Mint,2372,spearmint,1,0,0,0,0,0,0,0,0,0
+12,Nutmeg,2373,smell of unriped mangos,1,0,0,0,0,1,0,0,0,0
+12,Nutmeg,2374,about to be sweetened,0,0,0,0,0,1,0,0,0,0
+12,Orange Blossom,2375,a light sweetness of orange,1,0,0,0,0,1,0,0,0,0
+12,Almond,2376,oh smells like childs medicine but in cherry flavour,2,0,0,0,0,0,0,0,0,0
+12,Guaiacol,2377,i cant smell this,0,0,0,0,0,0,0,0,0,0
+12,Guaiacol,2378,old sweet light bark,1,0,0,0,0,3,0,0,0,0
+12,Ginger,2379,sweet smooth smell,0,0,0,0,0,2,0,0,0,0
+12,Ginger,2380,just a bit like pine,1,0,0,0,0,0,0,0,0,0
+12,Ginger,2381,light pine,1,0,0,0,0,1,0,0,0,0
+12,Grapefruit,2382,sweet spicy but,0,0,0,0,0,2,0,0,0,0
+12,Grapefruit,2383,smells a bit like unriped mango,1,0,0,0,0,1,0,0,0,0
+12,Civet,2384,sweet bitter pine,1,0,0,0,0,2,0,0,0,0
+12,Civet,2385,like youd see in a toilet those things that youd clean the toilet bath thing,1,0,0,0,0,0,0,0,0,0
+12,Cardamom,2386,spicy but also smells like at a beef jerky shop,2,0,0,0,0,0,0,0,0,0
+12,Apricot,2387,sweet flowery,1,0,0,0,0,1,0,0,0,0
+12,Apricot,2388,"pink fower, dont know what its called but it has a pink flower petal what its called",1,0,0,0,0,0,0,0,0,0
+12,Chamomile,2389,went from old bitter to sweet scent,0,0,0,0,0,3,0,0,0,0
+12,Green Fig,2390,oh now i rememebr,0,0,0,0,0,0,0,0,0,0
+12,Green Fig,2391,dont know if its true or not but smells a bit like celery,1,0,0,0,0,0,0,0,0,0
+12,Green Fig,2392,sweet celery,1,0,0,0,0,1,0,0,0,0
+12,Cedar,2393,sweet and a bit mild,0,0,0,0,1,1,0,0,0,0
+12,Lily of the Valley,2394,sweet light potpurri,1,0,0,0,0,2,0,0,0,0
+12,Sweet Vanilla,2395,sweet vanilla,1,0,0,0,0,1,0,0,0,0
+12,Rosewood,2396,sweet a bit spicy just like my mums foundation,2,0,0,0,0,1,0,0,0,0
+12,White Musk,2397,"strong but its sweet, smells like a tabu perfume",1,0,0,1,0,1,0,0,0,0
+12,White Musk,2398,okay yeah,0,0,0,0,0,0,0,0,0,0
+13,Labdanum,2399,id say its something like cough syrup,1,0,0,0,0,0,0,0,0,0
+13,Labdanum,2400,and a little echinacea id say,1,0,0,0,0,0,0,0,0,0
+13,Labdanum,2401,sorta sour,0,0,0,0,0,1,0,0,0,0
+13,White Musk,2402,id dont know how but i just feel like it smells warm,0,0,0,0,0,1,0,0,0,0
+13,White Musk,2403,like its strong but it the scent isnt abraisive or anything,0,0,0,1,0,0,0,0,1,0
+13,White Tea,2404,its a bit more floral this one id say,1,0,0,0,0,0,0,0,0,0
+13,White Tea,2405,but a little similar to the other ones still,1,0,0,0,0,0,0,0,0,0
+13,Clove,2406,trying to differentiate them all,0,0,0,0,0,0,0,0,0,0
+13,Clove,2407,they smell similar,1,0,0,0,0,0,0,0,0,0
+13,Clove,2408,umm,0,0,0,0,0,0,0,0,0,0
+13,Clove,2409,i would say,0,0,0,0,0,0,0,0,0,0
+13,Clove,2410,not very vacant,0,0,0,1,0,0,0,0,0,0
+13,Clove,2411,"a bit more, a bit stronger than the others",0,0,0,1,0,0,0,0,0,0
+13,Frankincense,2412,this ones smelling a bit more like perfume,1,0,0,0,0,0,0,0,0,0
+13,Frankincense,2413,a bit more enticing but just a little bit,1,0,0,0,0,0,0,0,1,0
+13,Frankincense,2414,yeah,0,0,0,0,0,0,0,0,0,0
+13,Frankincense,2415,a tiny bit floral as well,1,0,0,0,0,0,0,0,0,0
+13,Cedar,2416,feel like im going to be repeating myself,0,0,0,0,0,0,0,0,0,0
+13,Cedar,2417,its not repelling or repellant,0,0,0,0,0,0,0,0,1,0
+13,Cedar,2418,but its still unpleasant id say,0,0,1,0,0,0,0,0,0,0
+13,Magnolia,2419,that ones definitely more pleasant,0,1,0,0,0,0,0,0,0,0
+13,Magnolia,2420,and,0,0,0,0,0,0,0,0,0,0
+13,Magnolia,2421,a little more acidic,0,0,0,0,0,1,0,0,0,0
+13,Geosmin,2422,i think its,0,0,0,0,0,0,0,0,0,0
+13,Geosmin,2423,quite similar to a,0,0,0,0,0,0,0,0,0,0
+13,Geosmin,2424,theyre all pretty similar so far,0,0,0,0,0,0,0,0,0,0
+13,Geosmin,2425,quite similar to one before though,1,0,0,0,0,0,0,0,0,0
+13,Geosmin,2426,more minty than the rest i would say somehow,1,0,0,0,0,0,0,0,0,0
+13,Geosmin,2427,"yeah still, still unpleasant",0,0,1,0,0,0,0,0,0,0
+13,Chamomile,2428,yeah its definitely more like a lolly like a starburst sorta thing,2,0,0,0,0,0,0,0,0,0
+13,Chamomile,2429,but sitll similar to the rest,1,0,0,0,0,0,0,0,0,0
+13,Chamomile,2430,so more sweet,0,0,0,0,0,1,0,0,0,0
+13,Wattle,2431,that one smells like a aftershave or cologne,2,0,0,0,0,0,0,0,0,0
+13,Wattle,2432,like a sweet one,0,0,0,0,0,1,0,0,0,0
+13,Wattle,2433,yeah more pleasant,0,1,0,0,0,0,0,0,0,0
+13,Caraway Seed,2434,hmm,0,0,0,0,0,0,0,0,0,0
+13,Caraway Seed,2435,its becoming more similar,0,0,0,0,0,0,0,0,0,0
+13,Caraway Seed,2436,that ones more similar to the earlier ones id say,1,0,0,0,0,0,0,0,0,0
+13,Caraway Seed,2437,and a bit,0,0,0,0,0,0,0,0,0,0
+13,Caraway Seed,2438,like like a bit more like liqourice,1,0,0,0,0,0,0,0,0,0
+13,Lily of the Valley,2439,smells more like an aftershave,1,0,0,0,0,0,0,0,0,0
+13,Lily of the Valley,2440,but not so sweet,0,0,0,0,0,1,0,0,0,0
+13,Lily of the Valley,2441,like,0,0,0,0,0,0,0,0,0,0
+13,Lily of the Valley,2442,less a more vacant one,0,0,0,0,1,0,0,0,0,0
+13,Lily of the Valley,2443,not too pleasant but more unpleasant at all,0,1,1,0,0,0,0,0,0,0
+13,Grapefruit,2444,this one almost or does reminds me of,0,0,0,0,0,0,0,0,0,0
+13,Grapefruit,2445,"its a faint of like the smell you have in a humid place, after youd say rain",2,0,0,0,0,0,0,0,0,0
+13,Grapefruit,2446,reminds me of fiji,1,0,0,0,0,0,0,0,0,0
+13,Grapefruit,2447,and then,0,0,0,0,0,0,0,0,0,0
+13,Grapefruit,2448,like the sort of air fresheners they use there,1,0,0,0,0,0,0,0,0,0
+13,Sweet Vanilla,2449,i think ive used this aftershave before,1,0,0,0,0,0,0,0,0,0
+13,Sweet Vanilla,2450,if it is an aftershave,1,0,0,0,0,0,0,0,0,0
+13,Sweet Vanilla,2451,it reminds me of a ,0,0,0,0,0,0,0,0,0,0
+13,Sweet Vanilla,2452,its the sweetest out of them all id say,0,0,0,0,0,1,0,0,0,0
+13,Sweet Vanilla,2453,but like a aftershave sorta thing,1,0,0,0,0,0,0,0,0,0
+13,Wintergreen,2454,its definitely familiar,0,0,0,0,0,0,1,0,0,0
+13,Wintergreen,2455,trying to remember where ive smelt it before,0,0,0,0,0,0,0,0,0,0
+13,Wintergreen,2456,its either something ive eaten like a lolly or,1,0,0,0,0,0,0,0,0,0
+13,Wintergreen,2457,its for medicine,1,0,0,0,0,0,0,0,0,0
+13,Wintergreen,2458,"but i would, i find it pleasant",0,1,0,0,0,0,0,0,0,0
+13,Wintergreen,2459,but i dont htink many others would,0,0,0,0,0,0,0,0,0,0
+13,Wintergreen,2460,or the majority,0,0,0,0,0,0,0,0,0,0
+13,Wintergreen,2461,so a mix between acidic and sweet as well,0,0,0,0,0,2,0,0,0,0
+13,Sea Minerals,2462,id say this one is another familiar cologne,1,0,0,0,0,0,0,0,0,0
+13,Sea Minerals,2463,"id say theres not an aftertaste but the equivalent for smell, is acidic",0,0,0,0,0,1,0,0,0,0
+13,Sea Minerals,2464,id feel it in my nose,0,0,0,0,0,0,0,0,1,0
+13,Sea Minerals,2465,but at first its ...,0,0,0,0,0,0,0,0,0,0
+13,Patchouli,2466,that reminds me of wasabi this one,1,0,0,0,0,0,0,0,0,0
+13,Patchouli,2467,just a sweeter wasabi in liquid form,1,0,0,0,0,1,0,0,0,0
+13,Rosewood,2468,this ones familiar as well,0,0,0,0,0,0,1,0,0,0
+13,Rosewood,2469,"it, oh its on the tip of my tongue",0,0,0,0,0,0,0,0,0,0
+13,Rosewood,2470,i really wanna know what this is afterwards,0,0,0,0,0,0,0,0,0,0
+13,Rosewood,2471,i feel like its ,0,0,0,0,0,0,0,0,0,0
+13,Rosewood,2472,its almost like echinacea,1,0,0,0,0,0,0,0,0,0
+13,Rosewood,2473,where,0,0,0,0,0,0,0,0,0,0
+13,Rosewood,2474,maybe ive had it for like medicine,1,0,0,0,0,0,0,0,0,0
+13,Rosewood,2475,so it reminds me of an aftertaste id have,1,0,0,0,0,0,0,0,0,0
+13,Rosewood,2476,esecially if i had water or something,1,0,0,0,0,0,0,0,0,0
+13,Floral Ozone,2477,"i have a slight, slightly reminds me of a berry",1,0,0,0,0,0,0,0,0,0
+13,Floral Ozone,2478,but,0,0,0,0,0,0,0,0,0,0
+13,Floral Ozone,2479,a bit,0,0,0,0,0,0,0,0,0,0
+13,Floral Ozone,2480,"a berry like it, its lost its flavour",1,0,0,0,0,1,0,0,0,0
+13,Floral Ozone,2481,"and its a littl ebit sour, something like that",0,0,0,0,0,1,0,0,0,0
+13,Cardamom,2482,that ones definitely the most unpleasant of them all,0,0,1,0,0,0,0,0,0,0
+13,Cardamom,2483,the smell of garbage,1,0,0,0,0,0,0,0,0,0
+13,Cardamom,2484,i hope its not a perfume,1,0,0,0,0,0,0,0,0,0
+13,Cardamom,2485,itd be insulting to whoever made it,0,0,1,0,0,0,0,0,0,0
+13,Cardamom,2486,it somehow reminds me of a fly thats been all around in like poo or garbage,3,0,0,0,0,0,0,0,0,0
+13,Cardamom,2487,"and that the as end, the smell of that",0,0,0,0,0,0,0,0,0,0
+13,Green Fig,2488,its kinda fruit like a fruit ive had before but again,2,0,0,0,0,0,0,0,0,0
+13,Green Fig,2489,it somehow reminds me of fiji,1,0,0,0,0,0,0,0,0,0
+13,Green Fig,2490,like a fruit ive had there rather than humidity,1,0,0,0,0,1,0,0,0,0
+13,Green Fig,2491,so yeah,0,0,0,0,0,0,0,0,0,0
+13,Green Fig,2492,more fruity,1,0,0,0,0,0,0,0,0,0
+13,Sandalwood,2493,its back t the ones towards the start,1,0,0,0,0,0,0,0,0,0
+13,Sandalwood,2494,where they all seem to smell the same with a tiny bit different,0,0,0,0,0,0,0,0,0,0
+13,Sandalwood,2495,so yeah refer above,0,0,0,0,0,0,0,0,0,0
+13,Musk,2496,this one smells sweeter,0,0,0,0,0,1,0,0,0,0
+13,Musk,2497,more like aftershave or perfume,2,0,0,0,0,0,0,0,0,0
+13,Musk,2498,kinda reminds me of the one actually my dad wears,1,0,0,0,0,0,0,0,0,0
+13,Musk,2499,so,0,0,0,0,0,0,0,0,0,0
+13,Musk,2500,my dad,1,0,0,0,0,0,0,0,0,0
+13,Guaiacol,2501,well its slightly vacant,0,0,0,0,1,0,0,0,0,0
+13,Guaiacol,2502,like i feel like i had to work to get the smell out,0,0,0,0,1,0,0,0,0,0
+13,Guaiacol,2503,but it smells a bit like the,0,0,0,0,0,0,0,0,0,0
+13,Guaiacol,2504,the wave of the ones at the start that were similar,1,0,0,0,0,0,0,0,0,0
+13,Geranium,2505,it makes me think of like an aftershave but one i wouldnt like at all,1,0,1,0,0,0,0,0,0,0
+13,Geranium,2506,so like,0,0,0,0,0,0,0,0,0,0
+13,Geranium,2507,teeny bit acidic but,0,0,0,0,0,1,0,0,0,0
+13,Dark Oud,2508,yeah just smells similar to the ones at the start,1,0,0,0,0,0,0,0,0,0
+13,Dark Oud,2509,but a bit more like a medicine,1,0,0,0,0,0,0,0,0,0
+13,Dark Oud,2510,like some cough syrup that wouldnt work,1,0,0,0,0,0,0,0,0,0
+13,Vetiver,2511,yeah still similar,1,0,0,0,0,0,0,0,0,0
+13,Vetiver,2512,a little sweet,0,0,0,0,0,1,0,0,0,0
+13,Vetiver,2513,"its pleasant, no",0,1,0,0,0,0,0,0,0,0
+13,Vetiver,2514,yeah a more sweet and pleasant version of the similar ones,1,1,0,0,0,1,0,0,0,0
+13,Apricot,2515,its more like candy this one,1,0,0,0,0,0,0,0,0,0
+13,Apricot,2516,like an aftershave,1,0,0,0,0,0,0,0,0,0
+13,Apricot,2517,a little bit ...,0,0,0,0,0,0,0,0,0,0
+13,Leather,2518,this one definitely pleasant,0,1,0,0,0,0,0,0,0,0
+13,Leather,2519,but i cant tell if it tell smore like an aftershave or a lolly,2,0,0,0,0,0,0,0,0,0
+13,Leather,2520,"i think its  more, smells more like an aftershave, but a very sweet one",1,0,0,0,0,1,0,0,0,0
+13,Lilac,2521,yeah that ones definitely like a commercial aftershave,1,0,0,0,0,0,0,0,0,0
+13,Lilac,2522,"sweet again, most of these are sweet",0,0,0,0,0,2,0,0,0,0
+13,Lilac,2523,or they smell like the same ones from the start,1,0,0,0,0,0,0,0,0,0
+13,Lilac,2524,"so yeah, sweet aftershave",1,0,0,0,0,1,0,0,0,0
+13,Almond,2525,definitely reminds me of a lolly,1,0,0,0,0,0,0,0,0,0
+13,Almond,2526,like its one of the rare lollies that ive had in mexico that are sweet and not chilli,2,0,0,0,0,1,0,0,0,0
+13,Almond,2527,but its very sweet,0,0,0,0,0,1,0,0,0,0
+13,Almond,2528,feel like it'd be diabetes in a bottle,1,0,0,0,0,0,0,0,0,0
+13,Cedramber,2529,this one smells like cologne but a mixture between a sweet one and an acidic one,1,0,0,0,0,2,0,0,0,0
+13,Cedramber,2530,like it was a mixture of two previous ones,2,0,0,0,0,0,0,0,0,0
+13,Cedramber,2531,id say its my favourite cologne smelling one of these,1,1,0,0,0,0,0,0,0,0
+13,Mint,2532,yeah really sweet one,0,0,0,0,0,1,0,0,0,0
+13,Mint,2533,i think ive,0,0,0,0,0,0,0,0,0,0
+13,Mint,2534,like somewhat raspberry,1,0,0,0,0,0,0,0,0,0
+13,Mint,2535,reminds me of sovreign hill,1,0,0,0,0,0,0,0,0,0
+13,Mint,2536,ive had a ... from there,0,0,0,0,0,0,0,0,0,0
+13,Ambergris,2537,like a sweet cologne,1,0,0,0,0,1,0,0,0,0
+13,Ambergris,2538,or a perfume for a woman,1,0,0,0,0,0,0,0,0,0
+13,Ambergris,2539,reminds me of a ,0,0,0,0,0,0,0,0,0,0
+13,Ambergris,2540,of what a secretary would wear,1,0,0,0,0,0,0,0,0,0
+13,Ginger,2541,"another lolly or perfume, i couldnt tell",2,0,0,0,0,0,0,0,0,0
+13,Ginger,2542,yeah one ... is like an aftersmell or something,1,0,0,0,0,0,0,0,0,0
+13,Ginger,2543,like a mix of acidic and sweet,0,0,0,0,0,2,0,0,0,0
+13,Ginger,2544,but it wasnt too strong on the initial smell,0,0,0,0,1,0,0,0,0,0
+13,Lavender,2545,smells quite similar to a previous one,1,0,0,0,0,0,0,0,0,0
+13,Lavender,2546,like a perfume or aftershave,2,0,0,0,0,0,0,0,0,0
+13,Lavender,2547,"yeah just like a stadnard, standard perfume or aftershave",2,0,0,0,0,0,0,0,0,0
+13,Nutmeg,2548,definitely the most,0,0,0,0,0,0,0,0,0,0
+13,Nutmeg,2549,the most abraisive one,0,0,1,1,0,0,0,0,1,0
+13,Nutmeg,2550,is thats even a word for a smell,0,0,0,0,0,0,0,0,0,0
+13,Nutmeg,2551,reminds me of a shot of alcohol mixed with somehting sweeter,1,0,0,0,0,1,0,0,0,0
+13,Nutmeg,2552,yeah i feel like i couldnt drive if i drank from this,1,0,0,0,0,0,0,0,0,0
+13,Honeysuckle,2553,another perfume,1,0,0,0,0,0,0,0,0,0
+13,Honeysuckle,2554,but its a little vacant,0,0,0,0,1,0,0,0,0,0
+13,Honeysuckle,2555,on the initial smell,0,0,0,0,0,0,0,0,0,0
+13,Honeysuckle,2556,but almost like a tingling sensation,0,0,0,0,0,0,0,0,1,0
+13,Honeysuckle,2557,like the blood rushing back into your leg,0,0,0,0,0,0,0,0,1,0
+13,Honeysuckle,2558,thats almost how i felt in my nose,0,0,0,0,0,0,0,0,1,0
+13,Honeysuckle,2559,like tingly thats how i describe it,0,0,0,0,0,0,0,0,1,0
+13,Civet,2560,if its a perufme or aftershave its a bad one,2,0,1,0,0,0,0,0,0,0
+13,Civet,2561,its almost like an air freshener you would use in an office,1,0,0,0,0,0,0,0,0,0
+13,Civet,2562,"i feel like if that was a scent in the room, i would get a headache",1,0,0,0,0,0,0,0,1,0
+13,Orange Blossom,2563,initially fruity,1,0,0,0,0,0,0,0,0,0
+13,Orange Blossom,2564,like a fruity perfume,2,0,0,0,0,0,0,0,0,0
+13,Orange Blossom,2565,the smell of like a sweeter watermlon sort of scent,1,0,0,0,0,1,0,0,0,0
+14,White Musk,2566,smells quite masculine,0,0,0,0,0,1,0,0,0,0
+14,White Musk,2567,kind of,0,0,0,0,0,0,0,0,0,0
+14,White Musk,2568,vinegary but,1,0,0,0,0,0,0,0,0,0
+14,White Musk,2569,i like the smell of it,0,1,0,0,0,0,0,0,0,0
+14,White Musk,2570,yeah it smells,0,0,0,0,0,0,0,0,0,0
+14,White Musk,2571,smells like someone i know,1,0,0,0,0,0,0,0,0,0
+14,White Musk,2572,maybe,0,0,0,0,0,0,0,0,0,0
+14,White Musk,2573,yeah besides masculine thats,0,0,0,0,0,1,0,0,0,0
+14,White Musk,2574,thats what ive got,0,0,0,0,0,0,0,0,0,0
+14,Wattle,2575,oh wow i dont know what this is,0,0,0,0,0,0,0,1,0,0
+14,Wattle,2576,smells medicinal,1,0,0,0,0,0,0,0,0,0
+14,Wattle,2577,and oily,1,0,0,0,0,0,0,0,0,0
+14,Wattle,2578,kinda smells like umm,0,0,0,0,0,0,0,0,0,0
+14,Wattle,2579,bathroom,1,0,0,0,0,0,0,0,0,0
+14,Wattle,2580,like bathroom cleaner,1,0,0,0,0,0,0,0,0,0
+14,Wattle,2581,"which ususlaly smells  kinda like fake, floral and",1,0,0,0,0,0,0,0,0,1
+14,Wattle,2582,smells really synthetic,0,0,0,0,0,0,0,0,0,1
+14,Wattle,2583,which isnt a very good describing word,0,0,0,0,0,0,0,0,0,0
+14,Leather,2584,smells musky,0,0,0,0,0,1,0,0,0,0
+14,Leather,2585,and familiar,0,0,0,0,0,0,1,0,0,0
+14,Leather,2586,kind of peppery,1,0,0,0,0,0,0,0,0,0
+14,Geosmin,2587,smells florally,1,0,0,0,0,0,0,0,0,0
+14,Geosmin,2588,smells like a garden,1,0,0,0,0,0,0,0,0,0
+14,Geosmin,2589,but a mature kind of garden,1,0,0,0,0,1,0,0,0,0
+14,Geosmin,2590,yeah kinda smells like spring,0,0,0,0,0,1,0,0,0,0
+14,Geosmin,2591,and a particular kind of flower but i cant,1,0,0,0,0,0,0,0,0,0
+14,Geosmin,2592,smells like you walking in a garden,1,0,0,0,0,0,0,0,0,0
+14,Grapefruit,2593,I dont like it,0,0,1,0,0,0,0,0,0,0
+14,Grapefruit,2594,but it smells like,0,0,0,0,0,0,0,0,0,0
+14,Grapefruit,2595,smells kind of,0,0,0,0,0,0,0,0,0,0
+14,Grapefruit,2596,fake,0,0,0,0,0,0,0,0,0,1
+14,Grapefruit,2597,im getting a little bit of like medicine like umm,1,0,0,0,0,0,0,0,0,0
+14,Grapefruit,2598,but at the same timeit smells quite grounding,0,0,0,0,0,0,0,0,1,0
+14,Grapefruit,2599,so there is some kind of natural smell in there,0,0,0,0,0,0,0,0,0,1
+14,Grapefruit,2600,but it changes,0,0,0,0,0,0,0,0,0,0
+14,Sea Minerals,2601,oh wow this smells like umm impulse,1,0,0,0,0,0,0,0,0,0
+14,Sea Minerals,2602,like umm girls impulse spray,1,0,0,0,0,0,0,0,0,0
+14,Sea Minerals,2603,becuase its kinda beachy and tropical,1,0,0,0,0,1,0,0,0,0
+14,Sea Minerals,2604,yeah thats uncanny,0,0,0,0,0,1,0,0,0,0
+14,Sea Minerals,2605,its like a,0,0,0,0,0,0,0,0,0,0
+14,Sea Minerals,2606,time warp to being 15 years old again,0,0,0,0,0,0,0,0,1,0
+14,Nutmeg,2607,wow,0,0,0,0,0,0,0,0,0,0
+14,Nutmeg,2608,its very strong,0,0,0,1,0,0,0,0,0,0
+14,Nutmeg,2609,its that same kind of like,0,0,0,0,0,0,0,0,0,0
+14,Nutmeg,2610,smells like dettol,1,0,0,0,0,0,0,0,0,0
+14,Nutmeg,2611,yeah which is so eucalyptus,1,0,0,0,0,0,0,0,0,0
+14,Nutmeg,2612,yeah it smells like umm something you use to clean cuts and things,1,0,0,0,0,0,0,0,0,0
+14,Orange Blossom,2613,its slightly,0,0,0,0,0,0,0,0,0,0
+14,Orange Blossom,2614,smells like soap,1,0,0,0,0,0,0,0,0,0
+14,Orange Blossom,2615,maybe like,0,0,0,0,0,0,0,0,0,0
+14,Orange Blossom,2616,floral scented soap,2,0,0,0,0,0,0,0,0,0
+14,Orange Blossom,2617,but then it smells quite heavy as well,0,0,0,1,0,0,0,0,0,0
+14,Orange Blossom,2618,and sweet,0,0,0,0,0,1,0,0,0,0
+14,Patchouli,2619,smells quite rich,0,0,0,0,0,1,0,0,0,0
+14,Patchouli,2620,smells like gum trees,1,0,0,0,0,0,0,0,0,0
+14,Patchouli,2621,and umm,0,0,0,0,0,0,0,0,0,0
+14,Patchouli,2622,being outside,1,0,0,0,0,0,0,0,0,0
+14,Patchouli,2623,yeah,0,0,0,0,0,0,0,0,0,0
+14,Patchouli,2624,smells like going bush walking,1,0,0,0,0,0,0,0,0,0
+14,Patchouli,2625,its really nice,0,1,0,0,0,0,0,0,0,0
+14,Honeysuckle,2626,so it has the delightful sickeningly sweet,0,1,0,0,0,2,0,0,0,0
+14,Honeysuckle,2627,characteristic,0,0,0,0,0,0,0,0,0,0
+14,Honeysuckle,2628,its that same kind of flower,1,0,0,0,0,0,0,0,0,0
+14,Honeysuckle,2629,its not roses its not lavender,2,0,0,0,0,0,0,0,0,0
+14,Honeysuckle,2630,its like,0,0,0,0,0,0,0,0,0,0
+14,Honeysuckle,2631,or maybe it is rose,1,0,0,0,0,0,0,0,0,0
+14,Honeysuckle,2632,theres jasmine,1,0,0,0,0,0,0,0,0,0
+14,Honeysuckle,2633,see that one changed a lot,0,0,0,0,0,0,0,0,0,0
+14,Honeysuckle,2634,it was gross and sweet and now its quite gentle,0,0,0,0,0,3,0,0,0,0
+14,Honeysuckle,2635,and calming,0,0,0,0,0,0,0,0,1,0
+14,Labdanum,2636,again it feels really masculine,0,0,0,0,0,1,0,0,0,0
+14,Labdanum,2637,and woody,1,0,0,0,0,0,0,0,0,0
+14,Labdanum,2638,kinda like umm,0,0,0,0,0,0,0,0,0,0
+14,Labdanum,2639,pine needles,1,0,0,0,0,0,0,0,0,0
+14,Labdanum,2640,yeah ita a nice scent,0,1,0,0,0,0,0,0,0,0
+14,Ginger,2641,smells like cushion powder,1,0,0,0,0,0,0,0,0,0
+14,Ginger,2642,smells quite deep,0,0,0,0,0,1,0,0,0,0
+14,Ginger,2643,and a little bit arresting,0,0,0,0,0,0,0,0,1,0
+14,Ginger,2644,but clean,0,0,0,0,0,1,0,0,0,0
+14,Ginger,2645,its quite a musky,1,0,0,0,0,0,0,0,0,0
+14,Frankincense,2646,smells really natural,0,0,0,0,0,0,0,0,0,1
+14,Frankincense,2647,and its a bit,0,0,0,0,0,0,0,0,0,0
+14,Frankincense,2648,peppery or like,1,0,0,0,0,0,0,0,0,0
+14,Frankincense,2649,on your tongue,0,0,0,0,0,0,0,0,1,0
+14,Frankincense,2650,smells vanilla,1,0,0,0,0,0,0,0,0,0
+14,Frankincense,2651,or,0,0,0,0,0,0,0,0,0,0
+14,Frankincense,2652,something softer,0,0,0,0,0,1,0,0,0,0
+14,Frankincense,2653,but a little bit spicy,1,0,0,0,0,0,0,0,0,0
+14,Civet,2654,smells really strong,0,0,0,1,0,0,0,0,0,0
+14,Civet,2655,kinda hits you in the face,0,0,0,1,0,0,0,0,1,0
+14,Civet,2656,its that weird soapy smell again,1,0,0,0,0,1,0,0,0,0
+14,Civet,2657,like that imperial leather soap,1,0,0,0,0,0,0,0,0,0
+14,Civet,2658,so i suppose it smells clean,0,0,0,0,0,1,0,0,0,0
+14,Almond,2659,smells like dr pepper,1,0,0,0,0,0,0,0,0,0
+14,Almond,2660,or somehting like sasperella i think,1,0,0,0,0,0,0,0,0,0
+14,Almond,2661,smells super sweet,0,0,0,0,0,1,0,0,0,0
+14,Almond,2662,but in a taste way,1,0,0,0,0,0,0,0,0,0
+14,Almond,2663,not a not a like sickeningly floral way,1,0,0,0,0,1,0,0,0,0
+14,Almond,2664,its very umm,0,0,0,0,0,0,0,0,0,0
+14,Almond,2665,thick,0,0,0,0,0,1,0,0,0,0
+14,Almond,2666,and <?>,0,0,0,0,0,0,0,0,0,0
+14,Almond,2667,like its kinda like like sasperellas not very <?>,1,0,0,0,0,0,0,0,0,0
+14,Almond,2668,but like liqourice and <?>,1,0,0,0,0,0,0,0,0,0
+14,Cedar,2669,smells kinda of grating,0,0,0,0,0,0,0,0,1,0
+14,Cedar,2670,and citrusy,1,0,0,0,0,0,0,0,0,0
+14,Cedar,2671,smells positive,0,1,0,0,0,0,0,0,0,0
+14,Cedar,2672,and restoring,0,0,0,0,0,0,0,0,1,0
+14,White Tea,2673,oh wow,0,1,0,0,0,0,0,0,0,0
+14,White Tea,2674,smells like my childhood,1,0,0,0,0,0,0,0,0,0
+14,White Tea,2675,oh wow,0,1,0,0,0,0,0,0,0,0
+14,White Tea,2676,it smells happy,0,1,0,0,0,1,0,0,0,0
+14,White Tea,2677,summery,0,0,0,0,0,1,0,0,0,0
+14,White Tea,2678,fun,0,0,0,0,0,1,0,0,0,0
+14,Sandalwood,2679,it smells quite natural,0,0,0,0,0,0,0,0,0,1
+14,Sandalwood,2680,like sandalwood,1,0,0,0,0,0,0,0,0,0
+14,Sandalwood,2681,kind of like,0,0,0,0,0,0,0,0,0,0
+14,Sandalwood,2682,its like a holding powder,1,0,0,0,0,0,0,0,0,0
+14,Sandalwood,2683,smells safe,0,0,0,0,0,1,0,0,0,0
+14,Ambergris,2684,smells confusing,0,0,0,0,0,0,0,0,1,0
+14,Ambergris,2685,i feel like i can smell tea tree,1,0,0,0,0,0,0,0,0,0
+14,Ambergris,2686,but at the same its kinda bland,0,0,0,0,1,0,0,0,0,0
+14,Ambergris,2687,yeah smells bland,0,0,0,0,1,0,0,0,0,0
+14,Floral Ozone,2688,oh wow,0,1,0,0,0,0,0,0,0,0
+14,Floral Ozone,2689,this smells great,0,1,0,0,0,0,0,0,0,0
+14,Floral Ozone,2690,smells like fruit,1,0,0,0,0,0,0,0,0,0
+14,Floral Ozone,2691,smells like itd taste like watermelon,1,0,0,0,0,0,0,0,0,0
+14,Floral Ozone,2692,has that like fruit smell tropicana vibe,1,0,0,0,0,1,0,0,0,0
+14,Floral Ozone,2693,its great,0,1,0,0,0,0,0,0,0,0
+14,Floral Ozone,2694,but it kinda makes you hungry so,0,0,0,0,0,0,0,0,1,0
+14,Caraway Seed,2695,"<bleh, bleh>",0,0,2,0,0,0,0,0,0,0
+14,Caraway Seed,2696,its aniseed,1,0,0,0,0,0,0,0,0,0
+14,Caraway Seed,2697,tastes like a hangover,1,0,0,0,0,0,0,0,0,0
+14,Caraway Seed,2698,or smells like a hangover,1,0,0,0,0,0,0,0,0,0
+14,Caraway Seed,2699,yeah smells like absinthe,1,0,0,0,0,0,0,0,0,0
+14,Caraway Seed,2700,which kinda like shoots straight into your brain and says no,0,0,0,0,0,0,0,0,1,0
+14,Caraway Seed,2701,so its very strong,0,0,0,1,0,0,0,0,0,0
+14,Caraway Seed,2702,and,0,0,0,0,0,0,0,0,0,0
+14,Caraway Seed,2703,heavy in an awful way,0,0,1,0,0,1,0,0,0,0
+14,Lilac,2704,it smells like jasmine,1,0,0,0,0,0,0,0,0,0
+14,Lilac,2705,so its that like soaped,1,0,0,0,0,0,0,0,0,0
+14,Lilac,2706,feminine kind of,0,0,0,0,0,1,0,0,0,0
+14,Lilac,2707,romantic,0,0,0,0,0,1,0,0,0,0
+14,Lilac,2708,kind of like youre in love,0,0,0,0,0,1,0,0,0,0
+14,Geranium,2709,this ones spicy,1,0,0,0,0,0,0,0,0,0
+14,Geranium,2710,not spicy as in like hot but like lots of different spices,2,0,0,0,0,0,0,0,0,0
+14,Geranium,2711,kind of gives you head spins,0,0,0,0,0,0,0,0,1,0
+14,Geranium,2712,its that weird like peppery smell,1,0,0,0,0,0,0,0,0,0
+14,Geranium,2713,but theres something enticing about it,0,0,0,0,0,0,0,0,1,0
+14,Geranium,2714,its that outdoorsy kind of smell,1,0,0,0,0,0,0,0,0,0
+14,Chamomile,2715,smells very sweet,0,0,0,0,0,1,0,0,0,0
+14,Chamomile,2716,it smells like sort like honey but not,1,0,0,0,0,0,0,0,0,0
+14,Chamomile,2717,but not not a jar,1,0,0,0,0,0,0,0,0,0
+14,Chamomile,2718,its a little bit,0,0,0,0,0,0,0,0,0,0
+14,Chamomile,2719,kinda like envelopesy,1,0,0,0,0,0,0,0,0,0
+14,Chamomile,2720,its a bit like strange,0,0,0,0,0,1,0,0,0,0
+14,Sweet Vanilla,2721,smells fresh,0,0,0,0,0,1,0,0,0,0
+14,Sweet Vanilla,2722,but like ice cream,1,0,0,0,0,0,0,0,0,0
+14,Sweet Vanilla,2723,so like vanillary but milky,2,0,0,0,0,0,0,0,0,0
+14,Sweet Vanilla,2724,smells like food,1,0,0,0,0,0,0,0,0,0
+14,Sweet Vanilla,2725,smells tasty,0,0,0,0,0,1,0,0,0,0
+14,Clove,2726,its like a kick in the teeth,0,0,0,1,0,0,0,0,1,0
+14,Clove,2727,it smells very,0,0,0,0,0,0,0,0,0,0
+14,Clove,2728,like australian flora,1,0,0,0,0,0,0,0,0,0
+14,Clove,2729,are they all different,0,0,0,0,0,0,0,0,0,0
+14,Clove,2730,i like the smell its like a gummy,1,1,0,0,0,0,0,0,0,0
+14,Clove,2731,you can like smell that kind of drip down the bakc of your throat,0,0,0,0,0,0,0,0,1,0
+14,Clove,2732,yeah,0,0,0,0,0,0,0,0,0,0
+14,Apricot,2733,this smells like passionfruit,1,0,0,0,0,0,0,0,0,0
+14,Apricot,2734,it has a really fresh,0,0,0,0,0,1,0,0,0,0
+14,Apricot,2735,uplifting kind of,0,0,0,0,0,0,0,0,1,0
+14,Apricot,2736,but then it smells like having a really nice shower,1,1,0,0,0,0,0,0,0,0
+14,Apricot,2737,makes you feel like,0,0,0,0,0,0,0,0,0,0
+14,Apricot,2738,awake if awake could be a smell,0,0,0,0,0,0,0,0,1,0
+14,Cardamom,2739,smells like what i clean my floors with,1,0,0,0,0,0,0,0,0,0
+14,Cardamom,2740,i dont know what the word is for like all those leaves crushed up together,1,0,0,0,0,0,0,0,0,0
+14,Cardamom,2741,but thats what it smells like,0,0,0,0,0,0,0,0,0,0
+14,Cardamom,2742,so kinda sterile i suppose,0,0,0,0,0,1,0,0,0,0
+14,Rosewood,2743,smells like aniseed again,1,0,0,0,0,0,0,0,0,0
+14,Rosewood,2744,liqourice but kinda strong,1,0,0,1,0,0,0,0,0,0
+14,Rosewood,2745,so it smells subtle and reasonable,0,0,0,0,0,2,0,0,0,0
+14,Rosewood,2746,after a while it kinda smells like a lolly,1,0,0,0,0,0,0,0,0,0
+14,Dark Oud,2747,smells syrupy,1,0,0,0,0,0,0,0,0,0
+14,Dark Oud,2748,kinda western,0,0,0,0,0,1,0,0,0,0
+14,Dark Oud,2749,like country western,0,0,0,0,0,2,0,0,0,0
+14,Dark Oud,2750,like a probably rich timber,1,0,0,0,0,1,0,0,0,0
+14,Green Fig,2751,smells like succulents,1,0,0,0,0,0,0,0,0,0
+14,Green Fig,2752,smells really green,0,0,0,0,0,1,0,0,0,0
+14,Green Fig,2753,its fresh ...,0,0,0,0,0,1,0,0,0,0
+14,Green Fig,2754,like refreshing,0,0,0,0,0,0,0,0,1,0
+14,Green Fig,2755,its like a greenhouse,1,0,0,0,0,0,0,0,0,0
+14,Green Fig,2756,but not in a hot sweaty way,0,0,0,0,0,2,0,0,0,0
+14,Vetiver,2757,smells quite earthy,1,0,0,0,0,0,0,0,0,0
+14,Vetiver,2758,earthy and,1,0,0,0,0,0,0,0,0,0
+14,Vetiver,2759,cool,0,0,0,0,0,1,0,0,0,0
+14,Vetiver,2760,kinda has that forest vibe,1,0,0,0,0,0,0,0,0,0
+14,Vetiver,2761,i like it,0,1,0,0,0,0,0,0,0,0
+14,Lily of the Valley,2762,smells like ...,0,0,0,0,0,0,0,0,0,0
+14,Lily of the Valley,2763,so it has that calming revitatlising smell to it,0,0,0,0,0,0,0,0,2,0
+14,Lily of the Valley,2764,so like,0,0,0,0,0,0,0,0,0,0
+14,Lily of the Valley,2765,its like a gentle,0,0,0,0,0,1,0,0,0,0
+14,Lily of the Valley,2766,now its changed quite a lot,0,0,0,0,0,0,0,0,0,0
+14,Lily of the Valley,2767,that gentle floral scent is getting stronger,1,0,0,1,0,1,0,0,0,0
+14,Wintergreen,2768,smells very specific,0,0,0,0,0,0,0,0,0,0
+14,Wintergreen,2769,doesnt smell like burning it smells like,0,0,0,0,0,1,0,0,0,0
+14,Wintergreen,2770,kinda like cough syrup,1,0,0,0,0,0,0,0,0,0
+14,Wintergreen,2771,smells like something in the medicine cabinet,1,0,0,0,0,0,0,0,0,0
+14,Musk,2772,smells like aftershave,1,0,0,0,0,0,0,0,0,0
+14,Musk,2773,it has that really like ocean,1,0,0,0,0,0,0,0,0,0
+14,Musk,2774,kind of,1,0,0,0,0,0,0,0,0,0
+14,Musk,2775,sea breeze kind of,0,0,0,0,0,0,0,0,0,0
+14,Musk,2776,yeah,0,0,0,0,0,0,0,0,0,0
+14,Guaiacol,2777,it smells really oily,1,0,0,0,0,0,0,0,0,0
+14,Guaiacol,2778,and rich,0,0,0,0,0,1,0,0,0,0
+14,Guaiacol,2779,with that same kind of sappy,1,0,0,0,0,0,0,0,0,0
+14,Guaiacol,2780,like gum kinda smell,1,0,0,0,0,0,0,0,0,0
+14,Guaiacol,2781,like the insides of trees,1,0,0,0,0,0,0,0,0,0
+14,Cedramber,2782,smells like,0,0,0,0,0,0,0,0,0,0
+14,Cedramber,2783,warm,0,0,0,0,0,1,0,0,0,0
+14,Cedramber,2784,and familiar,0,0,0,0,0,0,1,0,0,0
+14,Cedramber,2785,its like a nice like,0,1,0,0,0,0,0,0,0,0
+14,Cedramber,2786,evergreen kind of,1,0,0,0,0,0,0,0,0,0
+14,Cedramber,2787,kindness,0,0,0,0,0,1,0,0,0,0
+14,Magnolia,2788,smells like radox,1,0,0,0,0,0,0,0,0,0
+14,Magnolia,2789,its like a really like,0,0,0,0,0,0,0,0,0,0
+14,Magnolia,2790,fresh kind of boy smell,1,0,0,0,0,1,0,0,0,0
+14,Magnolia,2791,yeah i like it,0,1,0,0,0,0,0,0,0,0
+14,Lavender,2792,smells like bubble bath,1,0,0,0,0,0,0,0,0,0
+14,Lavender,2793,this ones nice,0,1,0,0,0,0,0,0,0,0
+14,Lavender,2794,smells like a deeper green colour,0,0,0,0,0,2,0,0,0,0
+14,Lavender,2795,kinda like a waterful,1,0,0,0,0,0,0,0,0,0
+14,Lavender,2796,its like a nice natural smell,0,1,0,0,0,0,0,0,0,1
+14,Mint,2797,smells like toothpaste,1,0,0,0,0,0,0,0,0,0
+14,Mint,2798,its really minty and fresh,1,0,0,0,0,1,0,0,0,0
+14,Mint,2799,yeah,0,0,0,0,0,0,0,0,0,0
+14,Mint,2800,like colgate,1,0,0,0,0,0,0,0,0,0
+14,Mint,2801,thats delicious,0,1,0,0,0,0,0,0,0,0
+14,Mint,2802,like spearmint,1,0,0,0,0,0,0,0,0,0
+14,Mint,2803,but not the gross spearmint milkshake,2,0,0,0,0,1,0,0,0,0
+14,Mint,2804,or like choc chip mint ice cream,3,0,0,0,0,0,0,0,0,0
+14,Mint,2805,yeah ,0,0,0,0,0,0,0,0,0,0
+14,Mint,2806,its great,0,1,0,0,0,0,0,0,0,0
+15,Wintergreen,2807,reminds me of like a medicine kinda smell,1,0,0,0,0,0,0,0,0,0
+15,Wintergreen,2808,kinda like a shot-ish,1,0,0,0,0,0,0,0,0,0
+15,Wintergreen,2809,kinda thing,0,0,0,0,0,0,0,0,0,0
+15,Mint,2810,compared to the other one its kinda like a duller kinda thing,0,0,0,0,1,1,0,0,0,0
+15,Mint,2811,this is different okay,0,0,0,0,0,1,0,0,0,0
+15,Mint,2812,almost kind of like a liqourice for sure,1,0,0,0,0,0,0,0,0,0
+15,Sea Minerals,2813,"this is more, i feel like more of a like something on persons",1,0,0,0,0,0,0,0,0,0
+15,Sea Minerals,2814,like a pleasant kind of thing,0,1,0,0,0,0,0,0,0,0
+15,Sea Minerals,2815,yeah,0,0,0,0,0,0,0,0,0,0
+15,Sea Minerals,2816,almost like a tea tree oil vibe to it,1,0,0,0,0,0,0,0,0,0
+15,Dark Oud,2817,"thats, i dont know how to describe that one",0,0,0,0,0,0,0,1,0,0
+15,Dark Oud,2818,its a bit,0,0,0,0,0,0,0,0,0,0
+15,Dark Oud,2819,not like the best smell ever,0,0,1,0,0,0,0,0,0,0
+15,Dark Oud,2820,kind of like a almost like a petrol smell,1,0,0,0,0,0,0,0,0,0
+15,Musk,2821,this smells more like a perfume,1,0,0,0,0,0,0,0,0,0
+15,Musk,2822,like a really pleasant,0,1,0,0,0,0,0,0,0,0
+15,Musk,2823,kind of like fr- like  a flowery kind of one,1,0,0,0,0,0,0,0,0,0
+15,Guaiacol,2824,its pretty weak,0,0,0,0,1,0,0,0,0,0
+15,Guaiacol,2825,similar ot the other one,1,0,0,0,0,0,0,0,0,0
+15,Guaiacol,2826,but just not as strong,0,0,0,0,1,0,0,0,0,0
+15,Sandalwood,2827,it has like a bit of a sour smell to it,0,0,0,0,0,1,0,0,0,0
+15,Sandalwood,2828,yeah like a kinda like the other ones,1,0,0,0,0,0,0,0,0,0
+15,Sandalwood,2829,but a bit more pungent,0,0,0,1,0,0,0,0,0,0
+15,Lilac,2830,this is sweeter,0,0,0,0,0,1,0,0,0,0
+15,Lilac,2831,i feel like youd smell this on more of a like people,1,0,0,0,0,0,0,0,0,0
+15,Clove,2832,has kinda like a warmish smell,0,0,0,0,0,1,0,0,0,0
+15,Clove,2833,a bit sharp as well,0,0,0,0,0,1,0,0,0,0
+15,Clove,2834,"kind of like, i dont know if you can describe something as cinnamon",1,0,0,0,0,0,0,0,0,0
+15,Clove,2835,but like just like a really sharp one,0,0,0,0,0,1,0,0,0,0
+15,Geranium,2836,its a bit of like a flat kind of smell,0,0,0,0,0,1,0,0,0,0
+15,Geranium,2837,not like sharp but still has like a something strong in there,0,0,0,1,0,1,0,0,0,0
+15,Geosmin,2838,"similar ot the last one, like same kinda thing",1,0,0,0,0,0,0,0,0,0
+15,Geosmin,2839,its not completely sharp but,0,0,0,0,0,1,0,0,0,0
+15,Ambergris,2840,that ones a lot nicer,0,1,0,0,0,0,0,0,0,0
+15,Ambergris,2841,a bit sweeter,0,0,0,0,0,1,0,0,0,0
+15,Chamomile,2842,its kind of like a tea tree oil smell,1,0,0,0,0,0,0,0,0,0
+15,Chamomile,2843,but like a bit sweeter and not as like in your face,0,0,0,0,1,1,0,0,0,0
+15,Cedar,2844,similar to the last one but like denser,1,0,0,0,0,1,0,0,0,0
+15,Cedar,2845,i dont know if that makes sense,0,0,0,0,0,0,0,0,0,0
+15,Cedar,2846,its its kinda like a darker smell if you can describe it like that,0,0,0,0,0,1,0,0,0,0
+15,Ginger,2847,smells a bit like grass,1,0,0,0,0,0,0,0,0,0
+15,Ginger,2848,but like sweet,0,0,0,0,0,1,0,0,0,0
+15,Nutmeg,2849,thats like almost exactly the same as the last one,1,0,0,0,0,0,0,0,0,0
+15,Nutmeg,2850,i feel like but a bit stronger,0,0,0,1,0,0,0,0,0,0
+15,Green Fig,2851,has like a vanilla kinda smell,1,0,0,0,0,0,0,0,0,0
+15,Green Fig,2852,a bit sweet,0,0,0,0,0,1,0,0,0,0
+15,Almond,2853,umm,0,0,0,0,0,0,0,0,0,0
+15,Almond,2854,it smells like,0,0,0,0,0,0,0,0,0,0
+15,Almond,2855,ah medicine when your a kid,1,0,0,0,0,0,0,0,0,0
+15,Almond,2856,and its like a cherry kinda medicine scent,2,0,0,0,0,0,0,0,0,0
+15,Cardamom,2857,its really funky,0,0,1,0,0,1,0,0,0,0
+15,Cardamom,2858,it doesnt smell great,0,0,1,0,0,0,0,0,0,0
+15,Cardamom,2859,its like really sharp and,0,0,0,0,0,1,0,0,0,0
+15,Cardamom,2860,kinda like a rotten smell,0,0,0,0,0,1,0,0,0,0
+15,Rosewood,2861,its not like really,0,0,0,0,0,0,0,0,0,0
+15,Rosewood,2862,its kinda like a neutral smell,0,0,0,0,0,1,0,0,0,0
+15,Rosewood,2863,not really like sweet but not like a sharp thing either,0,0,0,0,0,2,0,0,0,0
+15,Vetiver,2864,its not umm,0,0,0,0,0,0,0,0,0,0
+15,Vetiver,2865,yeah its similar ot some of the other ones,1,0,0,0,0,0,0,0,0,0
+15,Vetiver,2866,like a,0,0,0,0,0,0,0,0,0,0
+15,Vetiver,2867,like a ,0,0,0,0,0,0,0,0,0,0
+15,Vetiver,2868,kind of like a ,0,0,0,0,0,0,0,0,0,0
+15,Vetiver,2869,sharpish perfume or something,1,0,0,0,0,1,0,0,0,0
+15,Sweet Vanilla,2870,that ones like super sweet,0,0,0,0,0,1,0,0,0,0
+15,Sweet Vanilla,2871,i know that smell,0,0,0,0,0,0,1,0,0,0
+15,Sweet Vanilla,2872,yeah that ones more of like a definite vainlla bean kinda vibe,1,0,0,0,0,0,0,0,0,0
+15,Floral Ozone,2873,has like a really fresh smell,0,0,0,0,0,1,0,0,0,0
+15,Floral Ozone,2874,kinda like a laundry smell,1,0,0,0,0,0,0,0,0,0
+15,Frankincense,2875,its not like sharp like some of the other ones,0,0,0,0,0,1,0,0,0,0
+15,Frankincense,2876,but that ones like not as in your face,0,0,0,0,1,0,0,0,0,0
+15,Frankincense,2877,liek a duller like,0,0,0,0,1,0,0,0,0,0
+15,Frankincense,2878,but still has something to it,0,0,0,0,0,0,0,0,0,0
+15,Apricot,2879,that ones more of a neutral one,0,0,0,0,0,1,0,0,0,0
+15,Apricot,2880,its not really sweet,0,0,0,0,0,1,0,0,0,0
+15,Apricot,2881,its like a fresh one as well,0,0,0,0,0,1,0,0,0,0
+15,Caraway Seed,2882,has a bit of a comforting smell,0,0,0,0,0,0,0,0,1,0
+15,Caraway Seed,2883,like a christmas time of smell to me,1,0,0,0,0,0,0,0,0,0
+15,White Musk,2884,its similar to the last one,1,0,0,0,0,0,0,0,0,0
+15,White Musk,2885,but kinda like a minty smell as well,1,0,0,0,0,0,0,0,0,0
+15,Wattle,2886,that ones like super strong,0,0,0,0,1,0,0,0,0,0
+15,Wattle,2887,its like apleasant kind of smell,0,1,0,0,0,0,0,0,0,0
+15,Wattle,2888,not like a bitter or sharp kind of thing,0,0,0,0,0,2,0,0,0,0
+15,Wattle,2889,and a little sweet,0,0,0,0,0,1,0,0,0,0
+15,Labdanum,2890,has like a burnt kind of smell,0,0,0,0,0,1,0,0,0,0
+15,Labdanum,2891,yeah like a burnt smell,0,0,0,0,0,1,0,0,0,0
+15,Lily of the Valley,2892,hsa like a kind of fresh smell as well,0,0,0,0,0,1,0,0,0,0
+15,Lily of the Valley,2893,a little but like a flowery kinda thing,1,0,0,0,0,0,0,0,0,0
+15,Lily of the Valley,2894,a bit mintier ,1,0,0,0,0,0,0,0,0,0
+15,Civet,2895,smells a bit like,0,0,0,0,0,0,0,0,0,0
+15,Civet,2896,something you clean a toilet with,1,0,0,0,0,0,0,0,0,0
+15,Civet,2897,like a really strong like,1,0,0,0,0,0,0,0,0,0
+15,Civet,2898,something that like kills bacteria kinda thing,1,0,0,0,0,0,0,0,0,0
+15,Leather,2899,its a bit sweet but has kind of like a sour smell as well,0,0,0,0,0,2,0,0,0,0
+15,Honeysuckle,2900,has a sharp tihng but its not like overwhelming,0,0,0,0,1,1,0,0,0,0
+15,Honeysuckle,2901,like you notice it but its like good to smell,0,1,0,1,0,0,0,0,0,0
+15,Honeysuckle,2902,has like a minty thing to it as well,1,0,0,0,0,0,0,0,0,0
+15,Grapefruit,2903,it a bit more of a pungent smell,0,0,0,1,0,0,0,0,0,0
+15,Grapefruit,2904,yeah not as light as some of the other ones,0,0,0,1,0,0,0,0,0,0
+15,Grapefruit,2905,very in your face,0,0,0,1,0,0,0,0,0,0
+15,White Tea,2906,like a light sweetness kinda thing,0,0,0,0,1,1,0,0,0,0
+15,White Tea,2907,like a really pleasant summer flowery thing,1,1,0,0,0,1,0,0,0,0
+15,White Tea,2908,more like you know its there but its not as overwhelming,0,0,0,0,1,0,0,0,0,0
+15,Patchouli,2909,has a bit of like a natural smell to it,0,0,0,0,0,0,0,0,0,1
+15,Patchouli,2910,a bit more pungent like a sour,0,0,0,1,0,1,0,0,0,0
+15,Magnolia,2911,similar to the last one but a bit sweeter,1,0,0,0,0,1,0,0,0,0
+15,Magnolia,2912,more of like a fresh clean smell,0,0,0,0,0,2,0,0,0,0
+15,Lavender,2913,that ones a lot stronger,0,0,0,1,0,0,0,0,0,0
+15,Lavender,2914,like more sour,0,0,0,0,0,1,0,0,0,0
+15,Lavender,2915,like not very sweet at all,0,0,0,0,0,1,0,0,0,0
+15,Cedramber,2916,its not a very overbearing kind of smell,0,0,0,0,1,0,0,0,0,0
+15,Cedramber,2917,like more neutral but still has a shaprness to it ,0,0,0,0,0,2,0,0,0,0
+15,Orange Blossom,2918,"its like similar to the last one but like a, like a more exotic kind of smell",1,0,0,0,0,1,0,0,0,0
+15,Orange Blossom,2919,and like a fresher smell as well,0,0,0,0,0,1,0,0,0,0
+16,White Musk,2920,okay this is harder than i thought,0,0,0,0,0,0,0,0,0,0
+16,White Musk,2921,um,0,0,0,0,0,0,0,0,0,0
+16,White Musk,2922,its like a spice kinda thing like,1,0,0,0,0,0,0,0,0,0
+16,White Musk,2923,"but not somehting youd use in cooking, its one of those aromatic smells",1,0,0,0,0,1,0,0,0,0
+16,White Musk,2924,i wanna cinnamon but i know its not cinnamon exactly,1,0,0,0,0,0,0,0,0,0
+16,White Musk,2925,like medicine,1,0,0,0,0,0,0,0,0,0
+16,White Musk,2926,as well,0,0,0,0,0,0,0,0,0,0
+16,White Musk,2927,maybe,0,0,0,0,0,0,0,0,0,0
+16,White Musk,2928,okay umm yeah,0,0,0,0,0,0,0,0,0,0
+16,White Musk,2929,yeah,0,0,0,0,0,0,0,0,0,0
+16,Sandalwood,2930,like dirt,1,0,0,0,0,0,0,0,0,0
+16,Sandalwood,2931,but,0,0,0,0,0,0,0,0,0,0
+16,Sandalwood,2932,like,0,0,0,0,0,0,0,0,0,0
+16,Sandalwood,2933,yeah like ugh like cloves but like earthy umm,2,0,0,0,0,0,0,0,0,0
+16,Sandalwood,2934,dirt kinda thing,1,0,0,0,0,0,0,0,0,0
+16,Sandalwood,2935,like those,0,0,0,0,0,0,0,0,0,0
+16,Sandalwood,2936,but its not like gum leaves,1,0,0,0,0,0,0,0,0,0
+16,Sandalwood,2937,but its like the earthy kind of tones of that,1,0,0,0,0,0,0,0,0,0
+16,Sandalwood,2938,if that makes sense,0,0,0,0,0,0,0,0,0,0
+16,Caraway Seed,2939,you have a pleasant smell?,0,0,0,0,0,0,0,0,0,0
+16,Caraway Seed,2940,i dont know how to describe it but it smells like that not like ginger but like some kind of bark thing id used to use,2,0,0,0,0,0,0,0,0,0
+16,Caraway Seed,2941,"like whenever you had a blood nose, i dont know why but my grandma used to like put this kind of smelling wooden thing against my nose and it would apparently stop bleeding but",1,0,0,0,0,0,0,0,0,0
+16,Caraway Seed,2942,yeah,0,0,0,0,0,0,0,0,0,0
+16,Caraway Seed,2943,yeah its like the smell though,0,0,0,0,0,0,0,0,0,0
+16,Caraway Seed,2944,"tree, trees bark something like that",2,0,0,0,0,0,0,0,0,0
+16,Sea Minerals,2945,like soap like,1,0,0,0,0,0,0,0,0,0
+16,Sea Minerals,2946,it smells like a soapy cologne like a really nice not like a handwash of some sort,2,1,0,0,0,0,0,0,0,0
+16,Sea Minerals,2947,yeah,0,0,0,0,0,0,0,0,0,0
+16,Guaiacol,2948,this is a lot like the other one that i didnt like,0,0,1,0,0,0,0,0,0,0
+16,Guaiacol,2949,"how to describe it, it",0,0,0,0,0,0,0,0,0,0
+16,Guaiacol,2950,again its kinda like the earthy smell like,1,0,0,0,0,0,0,0,0,0
+16,Guaiacol,2951,yeah like i dont know like,0,0,0,0,0,0,0,0,0,0
+16,Guaiacol,2952,wet dirt like when it rains and you just kinda smell like that dirt in the air,2,0,0,0,0,1,0,0,0,0
+16,Guaiacol,2953,yeah,0,0,0,0,0,0,0,0,0,0
+16,Geranium,2954,this ones like when you umm,0,0,0,0,0,0,0,0,0,0
+16,Geranium,2955,like when you have those fires,1,0,0,0,0,0,0,0,0,0
+16,Geranium,2956,and you put those essential oils into it,1,0,0,0,0,0,0,0,0,0
+16,Geranium,2957,thats what its smells like,0,0,0,0,0,0,0,0,0,0
+16,Geranium,2958,but probably cant pinpoint exact smell,0,0,0,0,0,0,0,0,0,0
+16,Geranium,2959,but it smells nice,0,1,0,0,0,0,0,0,0,0
+16,Geranium,2960,yeah that ones hard,0,0,0,0,0,0,0,0,0,0
+16,Floral Ozone,2961,i wanna say its watermlon but,1,0,0,0,0,0,0,0,0,0
+16,Floral Ozone,2962,like a fruity yeah like watermlon smell,2,0,0,0,0,0,0,0,0,0
+16,Floral Ozone,2963,but i dont really like watermlon so thats probably why im saying that,0,0,1,0,0,0,0,0,0,0
+16,Floral Ozone,2964,yeah,0,0,0,0,0,0,0,0,0,0
+16,Vetiver,2965,its not a pleasant smell,0,0,1,0,0,0,0,0,0,0
+16,Vetiver,2966,but like umm,0,0,0,0,0,0,0,0,0,0
+16,Vetiver,2967,i dont know how to describe it like,0,0,0,0,0,0,0,0,0,0
+16,Vetiver,2968,like okay so like unpleasant chlorine smell kinda as the basis,1,0,1,0,0,0,0,0,0,0
+16,Vetiver,2969,because its not nice but its got that like kinda like pungent smell in a way,0,0,1,1,0,0,0,0,0,0
+16,Magnolia,2970,like bubbles,1,0,0,0,0,0,0,0,0,0
+16,Magnolia,2971,yeah smells kinda like soapy kinda i guess fresh,1,0,0,0,0,1,0,0,0,0
+16,Magnolia,2972,or like a cologne kinda thing,1,0,0,0,0,0,0,0,0,0
+16,Cardamom,2973,this ones not really really strong but ah like umm,0,0,0,1,0,0,0,0,0,0
+16,Cardamom,2974,i dont know something youd use for cooking or something maybe,1,0,0,0,0,0,0,0,0,0
+16,Cardamom,2975,i wanna say it smells like a really strong spice of some sort or,1,0,0,1,0,0,0,0,0,0
+16,Cardamom,2976,yeah i cant describe this very well,0,0,0,0,0,0,0,0,0,0
+16,Cardamom,2977,"yeah something just like unpleasant, probably used for cooking i dont know",1,0,1,0,0,0,0,0,0,0
+16,Civet,2978,it kind of smells like i dont know like,0,0,0,0,0,0,0,0,0,0
+16,Civet,2979,i wanna say like medical like,1,0,0,0,0,0,0,0,0,0
+16,Civet,2980,i dont know its sometimes got that like umm,0,0,0,0,0,0,0,0,0,0
+16,Civet,2981,that smell that kind of like,0,0,0,0,0,0,0,0,0,0
+16,Civet,2982,that like slightly burns your nose like minty but not really there because its something else,1,0,0,0,0,0,0,0,1,0
+16,Civet,2983,but it doesnt smell like it either,0,0,0,0,0,0,0,0,0,0
+16,Sweet Vanilla,2984,is this one edible,1,0,0,0,0,0,0,0,0,0
+16,Sweet Vanilla,2985,it that its like sweet,0,0,0,0,0,1,0,0,0,0
+16,Sweet Vanilla,2986,someting that ive eaten before,0,0,0,0,0,0,1,0,0,0
+16,Sweet Vanilla,2987,i wanna say like vaniull abut like a sweet vanilla,2,0,0,0,0,1,0,0,0,0
+16,Sweet Vanilla,2988,"i dont know, chaptstick?",1,0,0,0,0,0,0,0,0,0
+16,Sweet Vanilla,2989,something like candy flavoured,1,0,0,0,0,0,0,0,0,0
+16,Frankincense,2990,its like the other the other like the other medicinal smelling ones,1,0,0,0,0,0,0,0,0,0
+16,Frankincense,2991,but like like earthy as well and i kinda picture wet bark came to mind,2,0,0,0,0,0,0,0,0,0
+16,Frankincense,2992,yeah like wet tree,1,0,0,0,0,0,0,0,0,0
+16,Cedramber,2993,i dont know if its me or not but htis one smells a lot similar to like i think its was one of the earlier ones like,1,0,0,0,0,0,0,0,0,0
+16,Cedramber,2994,like i dont know but now its starting to smell like baby powder so,1,0,0,0,0,0,0,0,0,0
+16,Cedramber,2995,yeah like an unpleasant baby powder kinda smell,1,0,1,0,0,0,0,0,0,0
+16,Nutmeg,2996,like something like,0,0,0,0,0,0,0,0,0,0
+16,Nutmeg,2997,i dont know like,0,0,0,0,0,0,0,0,0,0
+16,Nutmeg,2998,all reminds me of rotten or like really really bad or off,0,0,0,0,0,1,0,0,0,0
+16,Nutmeg,2999,like those you know those really bad jelly bean stuff and you have to guess them as stuff,1,0,1,0,0,0,0,0,0,0
+16,Nutmeg,3000,and you have to eat them and guess the taste,0,0,0,0,0,0,0,0,0,0
+16,Nutmeg,3001,thats what it smells like when you get the wrong one,1,0,0,0,0,0,0,0,0,0
+16,Nutmeg,3002,like stinky socks or something,1,0,1,0,0,0,0,0,0,0
+16,Mint,3003,toothpaste or something minty,2,0,0,0,0,0,0,0,0,0
+16,Mint,3004,yep or like mouthwash,1,0,0,0,0,0,0,0,0,0
+16,Patchouli,3005,im convinced youre giving me the same ones sometimes,0,0,0,0,0,0,0,0,0,0
+16,Patchouli,3006,because it smells a lot like the other one i dont know which one it was,1,0,0,0,0,0,0,0,0,0
+16,Patchouli,3007,but like like that that medicinal bark mint kinda smell,1,0,0,0,0,0,0,0,0,0
+16,Patchouli,3008,yeah like earthy stuff,1,0,0,0,0,0,0,0,0,0
+16,Musk,3009,like a cologne like,1,0,0,0,0,0,0,0,0,0
+16,Musk,3010,it smells like a cologne my dad uses,2,0,0,0,0,0,0,0,0,0
+16,Musk,3011,i dont know something perfumey cologney something like that,2,0,0,0,0,0,0,0,0,0
+16,Chamomile,3012,it smells like old,0,0,0,0,0,1,0,0,0,0
+16,Chamomile,3013,something old and,1,0,0,0,0,0,0,0,0,0
+16,Chamomile,3014,i wanna say lke old plastic but i dont think its plastic,1,0,0,0,0,1,0,0,0,0
+16,Chamomile,3015,like old liqourice,1,0,0,0,0,1,0,0,0,0
+16,Ambergris,3016,this one smells like a cologne as well,1,0,0,0,0,0,0,0,0,0
+16,Ambergris,3017,yeah i cant describe that one but something my dad would use,1,0,0,0,0,0,0,0,0,0
+16,Clove,3018,like sardines,1,0,0,0,0,0,0,0,0,0
+16,Clove,3019,yeah i dont know it smells like fishy sardiney,2,0,0,0,0,0,0,0,0,0
+16,Clove,3020,bad rotten type of smell,0,0,1,0,0,1,0,0,0,0
+16,Almond,3021,like its fruity and then it smells like umm robutussen the cherry medicine thing,2,0,0,0,0,0,0,0,0,0
+16,Almond,3022,that doesnt smell good either yep,0,0,1,0,0,0,0,0,0,0
+16,Lilac,3023,like flowers,1,0,0,0,0,0,0,0,0,0
+16,Lilac,3024,"yeah like you crush a flower and then you smell it, thats what it smells like",1,0,0,0,0,0,0,0,0,0
+16,Geosmin,3025,i dont know all these ones smells the same again the wet bark medicinal smell,2,0,0,0,0,1,0,0,0,0
+16,Ginger,3026,it smells like celery i think,1,0,0,0,0,0,0,0,0,0
+16,Ginger,3027,or like a vegetable,1,0,0,0,0,0,0,0,0,0
+16,Ginger,3028,like vegetable juice if you like blended it kinda thing,2,0,0,0,0,0,0,0,0,0
+16,Wintergreen,3029,like kinda smells like vaporub like vicks,1,0,0,0,0,0,0,0,0,0
+16,Wintergreen,3030,but like a bad off smelling one,0,0,1,0,0,0,0,0,0,0
+16,Green Fig,3031,mangos i think,1,0,0,0,0,0,0,0,0,0
+16,Green Fig,3032,fruity sweet mangos,2,0,0,0,0,1,0,0,0,0
+16,Lily of the Valley,3033,it smells like like shampoo like,1,0,0,0,0,0,0,0,0,0
+16,Lily of the Valley,3034,yeah like flowery nice smelling shampoo,2,1,0,0,0,0,0,0,0,0
+16,Labdanum,3035,like i dont know if its like anti-septic yeah i think it smells like the iodine smells like whne you put it on a cut or something,2,0,0,0,0,0,0,0,0,0
+16,Labdanum,3036,but yeah smells like that medical smell again,1,0,0,0,0,0,0,0,0,0
+16,Lavender,3037,i think it smells like lavender,1,0,0,0,0,0,0,0,0,0
+16,Lavender,3038,like an essential oil,1,0,0,0,0,0,0,0,0,0
+16,Leather,3039,its got like a sweet smell but,0,0,0,0,0,1,0,0,0,0
+16,Leather,3040,like that bark kind of smell again,1,0,0,0,0,0,0,0,0,0
+16,Leather,3041,yeah like kinda sweet dirt kind of smell,1,0,0,0,0,1,0,0,0,0
+16,Honeysuckle,3042,i wnana say it smells like a bland soap,1,0,0,0,1,0,0,0,0,0
+16,Honeysuckle,3043,or like a bland medicine or like beause its kinda like sweet and pleasant,1,1,0,0,1,1,0,0,0,0
+16,Honeysuckle,3044,but not like great that youd wanna buy it again,0,0,1,0,0,0,0,0,0,0
+16,Dark Oud,3045,like rubber like the tyres car tyre rubber yeah,2,0,0,0,0,0,0,0,0,0
+16,Dark Oud,3046,its really strong,0,0,0,1,0,0,0,0,0,0
+16,Apricot,3047,its like a sweet fruity candy kinda smell,2,0,0,0,0,1,0,0,0,0
+16,Apricot,3048,but i dont know what fruit like maybe vanilla citrusy kinda smell,3,0,0,0,0,0,0,0,0,0
+16,Rosewood,3049,it smells like an essential oil but,1,0,0,0,0,0,0,0,0,0
+16,Rosewood,3050,its not lavender but,1,0,0,0,0,0,0,0,0,0
+16,Rosewood,3051,its one of those ...,0,0,0,0,0,0,0,0,0,0
+16,Rosewood,3052,something like that,0,0,0,0,0,0,0,0,0,0
+16,White Tea,3053,i dont know how to describe this one its like,0,0,0,0,0,0,0,0,0,0
+16,White Tea,3054,somehting really nice like,0,1,0,0,0,0,0,0,0,0
+16,White Tea,3055,i guess when you like go into a nice house not like a new house but likerelatives house like grandmas house and its got that nice ambience kinda thing,2,1,0,0,0,0,0,0,0,0
+16,White Tea,3056,or like well like soapy like really nice soap,2,1,0,0,0,0,0,0,0,0
+16,White Tea,3057,yeah,0,0,0,0,0,0,0,0,0,0
+16,Cedar,3058,smells like the medicinal stuff again,1,0,0,0,0,0,0,0,0,0
+16,Cedar,3059,it smells like that in primary shcool there used to be like you kow tanbark,2,0,0,0,0,0,0,0,0,0
+16,Cedar,3060,and thered be a whole pile of it and you dig it and its warm and wet and thats what it smells like yeah,0,0,0,0,0,2,0,0,0,0
+16,Orange Blossom,3061,like i thnk its oranges,1,0,0,0,0,0,0,0,0,0
+16,Orange Blossom,3062,like the umm the outer peel of the orange yeah,1,0,0,0,0,0,0,0,0,0
+16,Wattle,3063,it kinda reminds me of one of my hand sanitisers which is kinda like a sweet pea kinda smell,2,0,0,0,0,0,0,0,0,0
+16,Wattle,3064,so like nice and soapy yeah,1,1,0,0,0,0,0,0,0,0
+16,Grapefruit,3065,It kinda smells like,0,0,0,0,0,0,0,0,0,0
+16,Grapefruit,3066,like  again like a medicinal kinda thing,1,0,0,0,0,0,0,0,0,0
+16,Grapefruit,3067,and like a tree bark kind of one but,1,0,0,0,0,0,0,0,0,0
+16,Grapefruit,3068,yeah kinda smells like,0,0,0,0,0,0,0,0,0,0
+16,Grapefruit,3069,like a medicine I took when I was younger and I was sick,1,0,0,0,0,0,0,0,0,0
+16,Grapefruit,3070,and kinda like go to the like the asia doctors that my mum would really trust,0,0,0,0,0,0,0,0,0,0
+16,Grapefruit,3071,and they give me a medicine that really smells like this,1,0,0,0,0,0,0,0,0,0
+17,Sandalwood,3072,it kinda smells like medicine,1,0,0,0,0,0,0,0,0,0
+17,Sandalwood,3073,kinda like chinese medicine,1,0,0,0,0,0,0,0,0,0
+17,Sandalwood,3074,yeah ok,0,0,0,0,0,0,0,0,0,0
+17,Apricot,3075,it kinda smells like medicine,1,0,0,0,0,0,0,0,0,0
+17,Apricot,3076,its like,0,0,0,0,0,0,0,0,0,0
+17,Apricot,3077,"oh actually, yeah it kinda smells like medicine but it also smells like, like a softener for clothes and stuff",2,0,0,0,0,0,0,0,0,0
+17,Apricot,3078,yeah ok,0,0,0,0,0,0,0,0,0,0
+17,Wintergreen,3079,this smells like chinese medicine as well,1,0,0,0,0,0,0,0,0,0
+17,Wintergreen,3080,is it its kinda like tiger balm i think,1,0,0,0,0,0,0,0,0,0
+17,Wintergreen,3081,but maybe maybe not as strong,0,0,0,0,1,0,0,0,0,0
+17,Wintergreen,3082,but like definitely something i feel my grandma has used before yep,1,0,0,0,0,0,0,0,0,0
+17,Magnolia,3083,this also smells like a softener,1,0,0,0,0,0,0,0,0,0
+17,Magnolia,3084,but its more subtle than the other one that i said was a softener,0,0,0,0,1,0,0,0,0,0
+17,Magnolia,3085,or smelt like a softener yeah,0,0,0,0,0,0,0,0,0,0
+17,Rosewood,3086,is it kinda like vaporub,1,0,0,0,0,0,0,0,0,0
+17,Rosewood,3087,like that vixy kinda smell,1,0,0,0,0,0,0,0,0,0
+17,Rosewood,3088,yeah from memory,0,0,0,0,0,0,0,0,0,0
+17,Leather,3089,it smells herbal,1,0,0,0,0,0,0,0,0,0
+17,Leather,3090,yeah thats pretty much all i have to say about this one,0,0,0,0,0,0,0,0,0,0
+17,Orange Blossom,3091,it kinda smells like fresh,0,0,0,0,0,1,0,0,0,0
+17,Orange Blossom,3092,like a little bit citrusy,1,0,0,0,0,0,0,0,0,0
+17,Orange Blossom,3093,i dont really know how to describe this one but yeah,0,0,0,0,0,0,0,0,0,0
+17,Guaiacol,3094,it smells like something from my fridge,1,0,0,0,0,0,0,0,0,0
+17,Guaiacol,3095,but its not off,0,0,0,0,0,1,0,0,0,0
+17,Guaiacol,3096,yeah,0,0,0,0,0,0,0,0,0,0
+17,White Musk,3097,it kinda smells like asian medicine as well,1,0,0,0,0,0,0,0,0,0
+17,White Musk,3098,umm kinda like those medicinal soups that my grandma would make yeah,1,0,0,0,0,0,0,0,0,0
+17,Caraway Seed,3099,spicy,1,0,0,0,0,0,0,0,0,0
+17,Caraway Seed,3100,umm yeah thats all i pretty much have to say about that,0,0,0,0,0,0,0,0,0,0
+17,Sea Minerals,3101,oh this also smells like a softener,1,0,0,0,0,0,0,0,0,0
+17,Sea Minerals,3102,yeah it also smells like a softener ,1,0,0,0,0,0,0,0,0,0
+17,Sea Minerals,3103,its more fresh,0,0,0,0,0,1,0,0,0,0
+17,Sea Minerals,3104,kinda like the light and breezy stuff yep,1,0,0,0,0,0,0,0,0,0
+17,Dark Oud,3105,this is pretty strong,0,0,0,1,0,0,0,0,0,0
+17,Dark Oud,3106,it kinda smells like mens perfume or mens aftershave,2,0,0,0,0,0,0,0,0,0
+17,Dark Oud,3107,thats maybe gone off and kinda like the alcohol content has affected its smell,2,0,0,0,0,0,0,0,0,0
+17,Dark Oud,3108,so kinda smells like alcohol,1,0,0,0,0,0,0,0,0,0
+17,Musk,3109,this smells like laundry detergent,1,0,0,0,0,0,0,0,0,0
+17,Musk,3110,yeah thats all i pretty much have to say about this one,0,0,0,0,0,0,0,0,0,0
+17,Patchouli,3111,it smells like a traditional asian medicine,1,0,0,0,0,0,0,0,0,0
+17,Patchouli,3112,kinda like somehting like theyd use for you know guasha,1,0,0,0,0,0,0,0,0,0
+17,Ambergris,3113,this kinda smells sweet,0,0,0,0,0,1,0,0,0,0
+17,Ambergris,3114,like a less strong version of nail polish remover,1,0,0,0,1,0,0,0,0,0
+17,Ambergris,3115,much more subtle than that,0,0,0,0,1,0,0,0,0,0
+17,Ambergris,3116,yep,0,0,0,0,0,0,0,0,0,0
+17,Chamomile,3117,this smells like something thats gone off from the fridge,1,0,0,0,0,0,0,0,0,0
+17,Chamomile,3118,but not in a bad way,0,1,0,0,0,0,0,0,0,0
+17,Chamomile,3119,yeah,0,0,0,0,0,0,0,0,0,0
+17,Honeysuckle,3120,this smells like fresh laundry,1,0,0,0,0,0,0,0,0,0
+17,Honeysuckle,3121,it smells like floral yep,1,0,0,0,0,0,0,0,0,0
+17,White Tea,3122,hmm so this one,0,0,0,0,0,0,0,0,0,0
+17,White Tea,3123,it kinda smells like lemongrass,1,0,0,0,0,0,0,0,0,0
+17,White Tea,3124,and medicinal,1,0,0,0,0,0,0,0,0,0
+17,White Tea,3125,thats all i have to say aout that ,0,0,0,0,0,0,0,0,0,0
+17,Geosmin,3126,"this smells super earthy and grassy, kinda like wet grass",3,0,0,0,0,1,0,0,0,0
+17,Labdanum,3127,not very strong,0,0,0,0,1,0,0,0,0,0
+17,Labdanum,3128,medicinal,1,0,0,0,0,0,0,0,0,0
+17,Labdanum,3129,yeah thats pretty much all i have to say,0,0,0,0,0,0,0,0,0,0
+17,Green Fig,3130,this kinda smells like,0,0,0,0,0,0,0,0,0,0
+17,Green Fig,3131,it smells like a garden of flowers,1,0,0,0,0,0,0,0,0,0
+17,Green Fig,3132,i dont know what flowers,0,0,0,0,0,0,0,0,0,0
+17,Green Fig,3133,kind of earthy but not as earthy as the one i said was earthy,1,0,0,0,0,0,0,0,0,0
+17,Lilac,3134,this also smells like laundry detergent,1,0,0,0,0,0,0,0,0,0
+17,Lilac,3135,its kinda fresh,0,0,0,0,0,1,0,0,0,0
+17,Cardamom,3136,oh this kinda smells its kinda smells fishy,1,0,0,0,0,0,0,0,0,0
+17,Cardamom,3137,but not like fresh fish at the market,1,0,0,0,0,0,0,0,0,0
+17,Cardamom,3138,its kinda like dried fish,1,0,0,0,0,1,0,0,0,0
+17,Cardamom,3139,but its much more pleasant than dried fish,0,1,0,0,0,0,0,0,0,0
+17,Geranium,3140,kind of floral,1,0,0,0,0,0,0,0,0,0
+17,Geranium,3141,yeah thats pretty much all i hvae to say about that,0,0,0,0,0,0,0,0,0,0
+17,Vetiver,3142,ok so this ones not very strong,0,0,0,0,1,0,0,0,0,0
+17,Vetiver,3143,it kindof smells sweet,0,0,0,0,0,1,0,0,0,0
+17,Vetiver,3144,kinda like kinda floral yeah,1,0,0,0,0,0,0,0,0,0
+17,Floral Ozone,3145,I dont really know how to describe this,0,0,0,0,0,0,0,0,0,0
+17,Floral Ozone,3146,its different to eveything else,0,0,0,0,0,1,0,0,0,0
+17,Floral Ozone,3147,am i allowed to skip? no? ok,0,0,0,0,0,0,0,0,0,0
+17,Floral Ozone,3148,its a nice pleasant soft smell,0,1,0,0,0,1,0,0,0,0
+17,Floral Ozone,3149,but i wouldn't use it in cooking,1,0,0,0,0,0,0,0,0,0
+17,Grapefruit,3150,This one's pertty neutral,0,0,0,0,0,1,0,0,0,0
+17,Grapefruit,3151,its not very strong,0,0,0,0,1,0,0,0,0,0
+17,Grapefruit,3152,so its quite subtle,0,0,0,0,1,0,0,0,0,0
+17,Grapefruit,3153,it kinda smells like the swimming pool but like very subtle,1,0,0,0,1,0,0,0,0,0
+17,Wattle,3154,okay this ones stronger,0,0,0,1,0,0,0,0,0,0
+17,Wattle,3155,it smells like a laundry detergent,1,0,0,0,0,0,0,0,0,0
+17,Wattle,3156,its not sweet,0,0,0,0,0,1,0,0,0,0
+17,Wattle,3157,it smells fresh,0,0,0,0,0,1,0,0,0,0
+17,Wattle,3158,it kinda smells like those umm toilet sprays that are like linen sheets or something like that,2,0,0,0,0,0,0,0,0,0
+17,Frankincense,3159,this ones more herbal,1,0,0,0,0,0,0,0,0,0
+17,Frankincense,3160,and yeah its not very strong,0,0,0,0,1,0,0,0,0,0
+17,Nutmeg,3161,"this kinda smells like the doctors office like the doctors waiting when youre waiting to go see a doctor, thats what it smells like",1,0,0,0,0,0,0,0,0,0
+17,Nutmeg,3162,i feel like it smells like a lift as well,1,0,0,0,0,0,0,0,0,0
+17,Nutmeg,3163,yeah thats pretty much it,0,0,0,0,0,0,0,0,0,0
+17,Lavender,3164,this one is floral,1,0,0,0,0,0,0,0,0,0
+17,Lavender,3165,also smells like laundry detergent,1,0,0,0,0,0,0,0,0,0
+17,Lavender,3166,yeah,0,0,0,0,0,0,0,0,0,0
+17,Cedar,3167,I dont know why but with this one it smells more round than the one i just smelt,0,0,0,0,0,1,0,0,0,0
+17,Cedar,3168,i mean yeah it kinda just smells like herbal medicine,1,0,0,0,0,0,0,0,0,0
+17,Cedar,3169,its pretty neutral,0,0,0,0,1,0,0,0,0,0
+17,Cedar,3170,not very strong,0,0,0,0,1,0,0,0,0,0
+17,Almond,3171,oh this one is very strong,0,0,0,1,0,0,0,0,0,0
+17,Almond,3172,it smells like that disgusting medicine like taste,1,0,1,0,0,0,0,0,0,0
+17,Almond,3173,its kinda like,0,0,0,0,0,0,0,0,0,0
+17,Almond,3174,whats that,0,0,0,0,0,0,0,0,0,0
+17,Almond,3175,kinda like from memory,0,0,0,0,0,0,1,0,0,0
+17,Almond,3176,the strawberry flavoured I think panadol,2,0,0,0,0,0,0,0,0,0
+17,Almond,3177,i think the one thats like 5-12 or 7-12 years and its got like the dragon or penguin on it or the penguin something like that,1,0,0,0,0,0,0,0,0,0
+17,Civet,3178,This one is more subtle than the one before,0,0,0,0,1,0,0,0,0,0
+17,Civet,3179,its nicer,0,1,0,0,0,0,0,0,0,0
+17,Civet,3180,"if this was a perfume, id feel like this is something that 40yo ladies would wear",1,0,0,0,0,0,0,0,0,0
+17,Ginger,3181,hmm this is pretty strong,0,0,0,1,0,0,0,0,0,0
+17,Ginger,3182,it kinda smells like lemons,1,0,0,0,0,0,0,0,0,0
+17,Ginger,3183,yeah its pretty much all i have to say,0,0,0,0,0,0,0,0,0,0
+17,Clove,3184,hmm this also has the,0,0,0,0,0,0,0,0,0,0
+17,Clove,3185,i feel like this also has the dried fish smell,1,0,0,0,0,0,0,0,0,0
+17,Clove,3186,but not as strong,0,0,0,0,1,0,0,0,0,0
+17,Clove,3187,and not as unpleasant,0,1,0,0,0,0,0,0,0,0
+17,Clove,3188,it kinda smell slike whats it called umm,0,0,0,0,0,0,0,0,0,0
+17,Clove,3189,it kinda smells like goji berries yeah,1,0,0,0,0,0,0,0,0,0
+17,Lily of the Valley,3190,hm mthis is a pretty strong smell,0,0,0,1,0,0,0,0,0,0
+17,Lily of the Valley,3191,id say its floral,1,0,0,0,0,0,0,0,0,0
+17,Lily of the Valley,3192,but it also smells like laundry detergent,1,0,0,0,0,0,0,0,0,0
+17,Mint,3193,hm this is a pretty strong smell,0,0,0,1,0,0,0,0,0,0
+17,Mint,3194,its kinda like when you've got a mint in your mouth and i dont know,1,0,0,0,0,0,0,0,0,0
+17,Mint,3195,it kinda,0,0,0,0,0,0,0,0,0,0
+17,Mint,3196,yeah it smells minty,1,0,0,0,0,0,0,0,0,0
+17,Mint,3197,but its like,0,0,0,0,0,0,0,0,0,0
+17,Mint,3198,when your mouth feels cold,0,0,0,0,0,0,0,0,1,0
+17,Mint,3199,im getting that kinda feel,0,0,0,0,0,0,0,0,0,0
+17,Mint,3200,yeah thats all i have to say,0,0,0,0,0,0,0,0,0,0
+17,Cedramber,3201,hmm this smells like a,0,0,0,0,0,0,0,0,0,0
+17,Cedramber,3202,this definitely smells like a womens perfume,1,0,0,0,0,0,0,0,0,0
+17,Cedramber,3203,something that like 25 to like mid 30s would wear,1,0,0,0,0,0,0,0,0,0
+17,Cedramber,3204,its not very strong,0,0,0,0,1,0,0,0,0,0
+17,Sweet Vanilla,3205,hmm this is sweet,0,0,0,0,0,1,0,0,0,0
+17,Sweet Vanilla,3206,its definitely sweet,0,0,0,0,0,1,0,0,0,0
+17,Sweet Vanilla,3207,kinda like a vanillary kind of smell,1,0,0,0,0,0,0,0,0,0
+17,Sweet Vanilla,3208,ubt its more than vanilla,1,0,0,0,0,0,0,0,0,0
+17,Sweet Vanilla,3209,yep sometihng,0,0,0,0,0,0,0,0,0,0
+17,Sweet Vanilla,3210,"its kinda smells like lush, yeah a lush store",2,0,0,0,0,0,0,0,0,0
+18,Floral Ozone,3211,hmm interesting,0,0,0,0,0,0,0,0,1,0
+18,Floral Ozone,3212,i dont know what this smells like,0,0,0,0,0,0,0,0,0,0
+18,Floral Ozone,3213,kinda smells slightly medicinal but im not gonna use that word,1,0,0,0,0,0,0,0,0,0
+18,Floral Ozone,3214,yeah medicinal,1,0,0,0,0,0,0,0,0,0
+18,Floral Ozone,3215,theres a smell i know what it is but i cant find the word,0,0,0,0,0,0,1,0,0,0
+18,Floral Ozone,3216,it kinda smells like cleaning agent slightly as well,1,0,0,0,0,0,0,0,0,0
+18,Floral Ozone,3217,or maybe just because cleaning agent is fragranced as certain things and thats what im smelling,0,0,0,0,0,0,0,0,0,0
+18,Floral Ozone,3218,i dont even know,0,0,0,0,0,0,0,0,0,0
+18,Floral Ozone,3219,what does menthol smell like?,1,0,0,0,0,0,0,0,0,0
+18,Floral Ozone,3220,it has that sharp smell to it,0,0,0,0,0,1,0,0,0,0
+18,Floral Ozone,3221,okay im just gonna say herbal medicine,1,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3222,I dont like this one,0,0,1,0,0,0,0,0,0,0
+18,Guaiacol,3223,its like im tasting it,0,0,0,0,0,0,0,0,1,0
+18,Guaiacol,3224,this is one of those animals urines i bet you,1,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3225,its like possum urine,1,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3226,my vocabulary's not big enough for this,0,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3227,oh this ... ,0,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3228,i dont know,0,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3229,i thought if i closed it id come to a conclusion,0,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3230,i cant tell the difference between this one and the last one,1,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3231,i feel like im your outlier,0,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3232,im gonna say,0,0,0,0,0,0,0,0,0,0
+18,Guaiacol,3233,can i say animal urine? possum urine,1,0,0,0,0,0,0,0,0,0
+18,Orange Blossom,3234,oh orange,1,0,0,0,0,0,0,0,0,0
+18,Orange Blossom,3235,citrus,1,0,0,0,0,0,0,0,0,0
+18,Orange Blossom,3236,citrus,1,0,0,0,0,0,0,0,0,0
+18,Orange Blossom,3237,wait what im getting confused,0,0,0,0,0,0,0,0,0,0
+18,Orange Blossom,3238,i cant think of any words right now,0,0,0,0,0,0,0,0,0,0
+18,Orange Blossom,3239,slightly pleasant,0,1,0,0,0,0,0,0,0,0
+18,Nutmeg,3240,i used to think i had a really sensitive sense of smell but maybe i dont if i cant tell the difference,0,0,0,0,0,0,0,0,0,0
+18,Nutmeg,3241,can i say medicine as opposed to herbal medicine,2,0,0,0,0,0,0,0,0,0
+18,Nutmeg,3242,a more synthetic smell,0,0,0,0,0,0,0,0,0,1
+18,White Musk,3243,oh smells nice,0,1,0,0,0,0,0,0,0,0
+18,White Musk,3244,toilet air freshener,1,0,0,0,0,0,0,0,0,0
+18,White Musk,3245,what fragrance is that,0,0,0,0,0,0,0,0,0,0
+18,White Musk,3246,its like a rose or,1,0,0,0,0,0,0,0,0,0
+18,White Musk,3247,i shouldnt rememebr what toilet air fershener,0,0,0,0,0,0,0,0,0,0
+18,White Musk,3248,but its like that rose air freshener,2,0,0,0,0,0,0,0,0,0
+18,White Musk,3249,which i guess is just rose,1,0,0,0,0,0,0,0,0,0
+18,White Musk,3250,but whats the pink flower,0,0,0,0,0,0,0,0,0,0
+18,White Musk,3251,thats the picture on the toilet,0,0,0,0,0,0,0,0,0,0
+18,White Musk,3252,pink flower,1,0,0,0,0,0,0,0,0,0
+18,White Musk,3253,whatever the pink flower is,1,0,0,0,0,0,0,0,0,0
+18,White Musk,3254,but hey i associate pink with that scent,0,0,0,0,0,0,0,0,0,0
+18,Cedar,3255,smells like a black candy,1,0,0,0,0,0,0,0,0,0
+18,Cedar,3256,i dont wanna say liqourice because its not a liqourice scent,1,0,0,0,0,0,0,0,0,0
+18,Cedar,3257,but you know those black candies that are brethren of liqourice,1,0,0,0,0,0,0,0,0,0
+18,Cedar,3258,actually im just gonna go with candy but i wanna say non-sweet candy,2,0,0,0,0,1,0,0,0,0
+18,Ginger,3259,orange liqourice,1,0,0,0,0,0,0,0,0,0
+18,Ginger,3260,orange candy,1,0,0,0,0,0,0,0,0,0
+18,Ginger,3261,can i taste it,0,0,0,0,0,0,0,0,0,0
+18,Ginger,3262,oh i can describe this as anytihng right,0,0,0,0,0,0,0,0,0,0
+18,Ginger,3263,like a rainy spring day,1,0,0,0,0,1,0,0,0,0
+18,Leather,3264,this smells like dusk like the store,1,0,0,0,0,0,0,0,0,0
+18,Leather,3265,combination of fragrance,1,0,0,0,0,0,0,0,0,0
+18,Leather,3266,this msells like something i ate recently,1,0,0,0,0,0,0,0,0,0
+18,Leather,3267,what did i eat recently,0,0,0,0,0,0,0,0,0,0
+18,Leather,3268,it smells so much like something ive eaten,1,0,0,0,0,0,0,0,0,0
+18,Leather,3269,what did i eat,0,0,0,0,0,0,0,0,0,0
+18,Leather,3270,i wanna say it because it smells exactly like that,0,0,0,0,0,0,0,0,0,0
+18,Leather,3271,its something ive eaten,1,0,0,0,0,0,0,0,0,0
+18,Leather,3272,got a lot of thoughts in my mind so its a bit hard to push them out,0,0,0,0,0,0,0,0,0,0
+18,Leather,3273,yeahsomething that has a chewy texture but not really,1,0,0,0,0,0,0,0,0,0
+18,Leather,3274,"its kinda like a bread but those non-airy bread, dense bread",3,0,0,0,0,2,0,0,0,0
+18,Leather,3275,yeah no idea,0,0,0,0,0,0,0,0,0,0
+18,Leather,3276,sweet berad is all im gonna say,1,0,0,0,0,1,0,0,0,0
+18,Sweet Vanilla,3277,hmm caramel,1,0,0,0,0,0,0,0,0,0
+18,Sweet Vanilla,3278,caramel,1,0,0,0,0,0,0,0,0,0
+18,Lilac,3279,cleaning agent,1,0,0,0,0,0,0,0,0,0
+18,Lilac,3280,im not gonna be more specific,0,0,0,0,0,0,0,0,0,0
+18,Patchouli,3281,yeah i dont like it,0,0,1,0,0,0,0,0,0,0
+18,Patchouli,3282,i just wanna close it because i think ill finalise my thoughts,0,0,0,0,0,0,0,0,0,0
+18,Patchouli,3283,i was gonna say somehting but it doesnt smell like what i was gonna say,0,0,0,0,0,0,0,0,0,0
+18,Patchouli,3284,earthy,1,0,0,0,0,0,0,0,0,0
+18,Patchouli,3285,like tree soil,1,0,0,0,0,0,0,0,0,0
+18,Patchouli,3286,"tree soil, soil, not soil, earthy",3,0,0,0,0,0,0,0,0,0
+18,Patchouli,3287,im gonna stick with earthy,1,0,0,0,0,0,0,0,0,0
+18,Almond,3288,i actually htink my vocabulary's broken down because i know all these scents then i dont know the words,0,0,0,0,0,0,0,0,0,0
+18,Almond,3289,what scent is this,0,0,0,0,0,0,0,0,0,0
+18,Almond,3290,see i know it because ive smelt it before,0,0,0,0,0,0,1,0,0,0
+18,Almond,3291,like a orangey smell,1,0,0,0,0,0,0,0,0,0
+18,Almond,3292,but its not an orange,0,0,0,0,0,0,0,0,0,0
+18,Almond,3293,its like,0,0,0,0,0,0,0,0,0,0
+18,Almond,3294,i havent formed a thought,0,0,0,0,0,0,0,0,0,0
+18,Almond,3295,you know what im thinking,0,0,0,0,0,0,0,0,0,0
+18,Almond,3296,i went to the doctor office,0,0,0,0,0,0,0,0,0,0
+18,Almond,3297,and the doctor was wearing some sort of perfume,0,0,0,0,0,0,0,0,0,0
+18,Almond,3298,and it was like the sterile smell and the perfume smell mixed tgoether,2,0,0,0,0,0,0,0,0,0
+18,Almond,3299,im gonna say let me have one more smell,0,0,0,0,0,0,0,0,0,0
+18,Almond,3300,cough syrup,1,0,0,0,0,0,0,0,0,0
+18,Civet,3301,sporty colognes,1,0,0,0,0,1,0,0,0,0
+18,Cardamom,3302,thats a really bad one,0,0,1,0,0,0,0,0,0,0
+18,Cardamom,3303,smells like asshole,1,0,0,0,0,0,0,0,0,0
+18,Cardamom,3304,"oh wait i know how to, its dried fish is what it smells like, i smelt it in sri lanka",1,0,0,0,0,0,1,0,0,0
+18,Cardamom,3305,or skunks piss or whatever,1,0,0,0,0,0,0,0,0,0
+18,Cardamom,3306,it actually smells exactly like dried fish,1,0,0,0,0,0,1,0,0,0
+18,Cardamom,3307,like the ones that hang out in the sun in sri lanka,1,0,0,0,0,0,0,0,0,0
+18,Cardamom,3308,it was,0,0,0,0,0,0,0,0,0,0
+18,Lavender,3309,it smells like a spicy nothing,1,0,0,0,0,1,0,0,0,0
+18,Lavender,3310,you know what i mean,0,0,0,0,0,0,0,0,0,0
+18,Lavender,3311,emptiness is what it smells like,0,0,0,0,0,1,0,0,0,0
+18,Clove,3312,this one smells like dried fish again,1,0,0,0,0,1,0,0,0,0
+18,Clove,3313,dried fish,1,0,0,0,0,1,0,0,0,0
+18,Clove,3314,i bet you theres some sort of chemical thats released when the fish is being oxidised,1,0,0,0,0,0,0,0,0,0
+18,Clove,3315,and thats what makes it smell like,0,0,0,0,0,0,0,0,0,0
+18,Lily of the Valley,3316,clean,0,0,0,0,0,1,0,0,0,0
+18,Frankincense,3317,lemon,1,0,0,0,0,0,0,0,0,0
+18,Frankincense,3318,its actually some other kind of lemon,1,0,0,0,0,0,0,0,0,0
+18,Frankincense,3319,because its not exactly lemon but im gonna say lemon,1,0,0,0,0,0,0,0,0,0
+18,Green Fig,3320,mango,1,0,0,0,0,0,0,0,0,0
+18,Green Fig,3321,smells like mango,1,0,0,0,0,0,0,0,0,0
+18,Green Fig,3322,giving me the fruity boys now,1,0,0,0,0,0,0,0,0,0
+18,Vetiver,3323,i think im gonna gag,0,0,1,0,0,0,0,0,1,0
+18,Vetiver,3324,its so pungent,0,0,0,1,0,0,0,0,0,0
+18,Vetiver,3325,dangerous,0,0,0,0,0,1,0,0,0,0
+18,Vetiver,3326,smells like a chemical i shouldnt be smelling,1,0,0,0,0,0,0,0,0,0
+18,Vetiver,3327,synthetic,0,0,0,0,0,0,0,0,0,1
+18,Caraway Seed,3328,synthetic,0,0,0,0,0,0,0,0,0,1
+18,Musk,3329,soapy,1,0,0,0,0,0,0,0,0,0
+18,Cedramber,3330,winter,1,0,0,0,0,0,0,0,0,0
+18,Cedramber,3331,i bet you've never had someone so expressive as this,0,0,0,0,0,0,0,0,0,0
+18,Cedramber,3332,so intune with my innovations,0,0,0,0,0,0,0,0,0,0
+18,Geranium,3333,i wanna say a circular object that grows on trees,1,0,0,0,0,0,0,0,0,0
+18,Geranium,3334,thats what im thinking,0,0,0,0,0,0,0,0,0,0
+18,Geranium,3335,thats what im imaginging in my head,0,0,0,0,0,0,0,0,0,0
+18,Geranium,3336,the word i wanna use is i actually dont know what you call an object thats round on all sides but not exactly a circle,1,0,0,0,0,0,0,0,0,0
+18,Geranium,3337,it smells really similar to one i smelt before,1,0,0,0,0,0,0,0,0,0
+18,Geranium,3338,because it gives me that little ctirus scent,1,0,0,0,0,0,0,0,0,0
+18,Geranium,3339,but its not really strong,0,0,0,0,1,0,0,0,0,0
+18,Geranium,3340,its like when you find a lemon thats fallen on the ground from a tree,1,0,0,0,0,0,0,0,0,0
+18,Geranium,3341,and itss been there for like a minute and it still kinda smells like a lemon but doesnt really,1,0,0,0,0,0,0,0,0,0
+18,Geranium,3342,thats like exactly what im feeling,0,0,0,0,0,0,0,0,0,0
+18,Sea Minerals,3343,it just smells like regular cologne,1,0,0,0,0,0,0,0,0,0
+18,Labdanum,3344,i dont know,0,0,0,0,0,0,0,0,0,0
+18,Labdanum,3345,its so familiar but i cant,0,0,0,0,0,0,1,0,0,0
+18,Labdanum,3346,i don tknow im gonna say the leather interior of a car,1,0,0,0,0,0,0,0,0,0
+18,Mint,3347,oh,0,0,0,0,0,0,0,0,0,0
+18,Mint,3348,gum like its not a sharp mint its a gum,2,0,0,0,0,1,0,0,0,0
+18,Mint,3349,spearmint gum,1,0,0,0,0,0,0,0,0,0
+18,Mint,3350,"i dont actually know the difference, whatveer the green one is",1,0,0,0,0,0,0,0,0,0
+18,Mint,3351,not the blue one,1,0,0,0,0,0,0,0,0,0
+18,Grapefruit,3352,okay,0,0,0,0,0,0,0,0,0,0
+18,Grapefruit,3353,you know what it smells like?,0,0,0,0,0,0,0,0,0,0
+18,Grapefruit,3354,"its the when you you know that little orange, oh my god",1,0,0,0,0,0,0,0,0,0
+18,Grapefruit,3355,orange vitamin candies,1,0,0,0,0,0,0,0,0,0
+18,Grapefruit,3356,thats exactly what it smells like,0,0,0,0,0,0,0,0,0,0
+18,Grapefruit,3357,i was trying to think whats the little one that disolves in your mouth,0,0,0,0,0,0,0,0,0,0
+18,White Tea,3358,ah cool breeze,1,0,0,0,0,1,0,0,0,0
+18,Geosmin,3359,stale air,1,0,0,0,0,1,0,0,0,0
+18,Geosmin,3360,because i can barely smell it but theres a tinge of something,0,0,0,0,1,0,0,0,0,0
+18,Geosmin,3361,"perfect, perfect description",0,0,0,0,0,0,0,0,0,0
+18,Wattle,3362,this is definitely candy like,1,0,0,0,0,0,0,0,0,0
+18,Wattle,3363,fruity candy is what ill say,2,0,0,0,0,0,0,0,0,0
+18,Chamomile,3364,like an open meadow,1,0,0,0,0,0,0,0,0,0
+18,Honeysuckle,3365,ocean,1,0,0,0,0,0,0,0,0,0
+18,Honeysuckle,3366,ocean,1,0,0,0,0,0,0,0,0,0
+18,Honeysuckle,3367,have i used ocean,0,0,0,0,0,0,0,0,0,0
+18,Honeysuckle,3368,but not a sea salty ocean,1,0,0,0,0,0,0,0,0,0
+18,Honeysuckle,3369,maybe larger body of water is what im going for,1,0,0,0,0,1,0,0,0,0
+18,Rosewood,3370,toxic gas,1,0,1,0,0,0,0,0,0,0
+18,Rosewood,3371,the only way i can think of what describes it is if i go really far outside the box,0,0,0,0,0,0,0,0,0,0
+18,Sandalwood,3372,is memory associated with scent,0,0,0,0,0,0,0,0,0,0
+18,Sandalwood,3373,because that explains why i have no memory,0,0,0,0,0,0,0,0,0,0
+18,Sandalwood,3374,comforting,0,0,0,0,0,0,0,0,1,0
+18,Sandalwood,3375,lik a mother's embrace,1,0,0,0,0,0,0,0,0,0
+18,Magnolia,3376,like a book,1,0,0,0,0,0,0,0,0,0
+18,Magnolia,3377,blossom,1,0,0,0,0,0,0,0,0,0
+18,Wintergreen,3378,its definitely smelt this in like an incense shop,0,0,0,0,0,0,1,0,0,0
+18,Wintergreen,3379,or perfume whatever,1,0,0,0,0,0,0,0,0,0
+18,Wintergreen,3380,oh wait this is in the car family,1,0,0,0,0,0,0,0,0,0
+18,Wintergreen,3381,its like what you clean leather with,1,0,0,0,0,0,0,0,0,0
+18,Ambergris,3382,im gonna say,0,0,0,0,0,0,0,0,0,0
+18,Ambergris,3383,for some reason im thinking of walking through the supermarket,1,0,0,0,0,0,0,0,0,0
+18,Ambergris,3384,but its not what it smells like,0,0,0,0,0,0,0,0,0,0
+18,Ambergris,3385,or maybe it is,0,0,0,0,0,0,0,0,0,0
+18,Ambergris,3386,synthetic flower,1,0,0,0,0,0,0,0,0,1
+18,Ambergris,3387,it aint real my friend,0,0,0,0,0,0,0,0,0,1
+18,Ambergris,3388,i dont fall for this,0,0,0,0,0,0,0,0,0,0
+18,Dark Oud,3389,smells like  ok im gonna say vicks,1,0,0,0,0,0,0,0,0,0
+18,Dark Oud,3390,but my specific answer when you,0,0,0,0,0,0,0,0,0,0
+18,Dark Oud,3391,i mean this is just the scent of vicks but diluted like when you ,1,0,0,0,0,0,0,0,0,0
+18,Dark Oud,3392,"if you have a blocked nose, you get boiling water and you put vicks into it and you steam it",1,0,0,0,0,0,0,0,0,0
+18,Dark Oud,3393,"and you smell it, it smells exactly like that",0,0,0,0,0,0,0,0,0,0
+18,Apricot,3394,oh a pleasant ending,0,1,0,0,0,0,0,0,0,0
+18,Apricot,3395,peaches is what it reminds me of at least,1,0,0,0,0,0,0,0,0,0
+18,Apricot,3396,i dont think it necessarily smells like peaches,1,0,0,0,0,0,0,0,0,0
+18,Apricot,3397,but that is what i associate with it,0,0,0,0,0,0,0,0,0,0
+19,Geosmin,3398,this smells like musky and quite,1,0,0,0,0,0,0,0,0,0
+19,Geosmin,3399,has a bit of a cinn- cinnamon like smell,1,0,0,0,0,0,0,0,0,0
+19,Sea Minerals,3400,this one smells a bit citrusy,1,0,0,0,0,0,0,0,0,0
+19,Sea Minerals,3401,a lemon,1,0,0,0,0,0,0,0,0,0
+19,Sea Minerals,3402,yeah,0,0,0,0,0,0,0,0,0,0
+19,Labdanum,3403,yeah,0,0,0,0,0,0,0,0,0,0
+19,Labdanum,3404,ew,0,0,1,0,0,0,0,0,0,0
+19,Labdanum,3405,this one has like a medicinal scent to it,1,0,0,0,0,0,0,0,0,0
+19,Labdanum,3406,like something i would drink if i was sick,1,0,0,0,0,0,0,0,0,0
+19,Cedramber,3407,this one smells musky as well,1,0,0,0,0,0,0,0,0,0
+19,Cedramber,3408,quite a relaxing scent,0,0,0,0,0,0,0,0,1,0
+19,Lily of the Valley,3409,i think this has,0,0,0,0,0,0,0,0,0,0
+19,Lily of the Valley,3410,smells like lavender,1,0,0,0,0,0,0,0,0,0
+19,Lily of the Valley,3411,more on the floral side,1,0,0,0,0,0,0,0,0,0
+19,Clove,3412,how interesting umm,0,0,0,0,0,0,0,0,1,0
+19,Clove,3413,this one kinda smells like herbs yeah not too sure,1,0,0,0,0,0,0,0,0,0
+19,Green Fig,3414,this has like a strong fruit smell,1,0,0,1,0,0,0,0,0,0
+19,Green Fig,3415,but its not citrus yeah,1,0,0,0,0,0,0,0,0,0
+19,Vetiver,3416,this kinda smells like industrial,1,0,0,0,0,0,0,0,0,0
+19,Vetiver,3417,like from a factory kind of,1,0,0,0,0,0,0,0,0,0
+19,Musk,3418,hmm this one kinda smells like oriental,0,0,0,0,0,1,0,0,0,0
+19,Mint,3419,oh this is like very minty,1,0,0,0,0,0,0,0,0,0
+19,Frankincense,3420,umm this one smells musky as well,1,0,0,0,0,0,0,0,0,0
+19,Frankincense,3421,with a little bit of mint,1,0,0,0,0,0,0,0,0,0
+19,White Tea,3422,this smells like lemongrass,1,0,0,0,0,0,0,0,0,0
+19,Cedar,3423,this smells like orange medicine,2,0,0,0,0,0,0,0,0,0
+19,Ginger,3424,yeah this one also smells like medicine,1,0,0,0,0,0,0,0,0,0
+19,Patchouli,3425,umm this one also smells quite like the outdoors,1,0,0,0,0,0,0,0,0,0
+19,Civet,3426,oh this smells like rose,1,0,0,0,0,0,0,0,0,0
+19,Cardamom,3427,this is like vaporub,1,0,0,0,0,0,0,0,0,0
+19,Sweet Vanilla,3428,oh this one smells like butter menthol,1,0,0,0,0,0,0,0,0,0
+19,Geranium,3429,umm like a lemon and citrus scent,2,0,0,0,0,0,0,0,0,0
+19,Leather,3430,hmm cinnamon,1,0,0,0,0,0,0,0,0,0
+19,White Musk,3431,this one smells like flowers,1,0,0,0,0,0,0,0,0,0
+19,Grapefruit,3432,umm this one smells like powdery lemon,1,0,0,0,0,1,0,0,0,0
+19,Almond,3433,oh this is like cherry flavour,1,0,0,0,0,0,0,0,0,0
+19,Chamomile,3434,im not sure it just smells very pungent,0,0,0,1,0,0,0,0,0,0
+19,Wattle,3435,oh this is like a sweet floral scent i guess,1,0,0,0,0,1,0,0,0,0
+19,Caraway Seed,3436,umm this just smells quite dark,0,0,0,0,0,1,0,0,0,0
+19,Floral Ozone,3437,this one smells like old water,1,0,0,0,0,1,0,0,0,0
+19,Wintergreen,3438,yeah this smells quite medicinal and menthol,2,0,0,0,0,0,0,0,0,0
+19,Honeysuckle,3439,hmm this is like toilet cleaner,1,0,0,0,0,0,0,0,0,0
+19,Guaiacol,3440,this one also smells like medicine,1,0,0,0,0,0,0,0,0,0
+19,Apricot,3441,this is umm very subtle citrus,1,0,0,0,1,0,0,0,0,0
+19,Ambergris,3442,its like meditation oils,1,0,0,0,0,0,0,0,0,0
+19,Nutmeg,3443,smells like rubber,1,0,0,0,0,0,0,0,0,0
+19,Mangolia,3444,this is like orange and lemon,2,0,0,0,0,0,0,0,0,0
+19,Sandalwood,3445,smells like chlorine,1,0,0,0,0,0,0,0,0,0
+19,Lavender,3446,this also has like a musky smell,1,0,0,0,0,0,0,0,0,0
+19,Rosewood,3447,this one tastes,0,0,0,0,0,0,0,0,0,0
+19,Rosewood,3448,i mean smells herbal,1,0,0,0,0,0,0,0,0,0
+19,Dark Oud,3449,very strong,0,0,0,1,0,0,0,0,0,0
+19,Dark Oud,3450,like plant extract smell,1,0,0,0,0,0,0,0,0,0
+19,Lilac,3451,this one smells like herbs,1,0,0,0,0,0,0,0,0,0
+19,Orange Blossom,3452,this is quite fruity,1,0,0,0,0,0,0,0,0,0
+20,Lilac,3453,hmm smells like,0,0,0,0,0,0,0,0,0,0
+20,Lilac,3454,i dont even know,0,0,0,0,0,0,0,0,0,0
+20,Lilac,3455,some kind of spice i would say,1,0,0,0,0,0,0,0,0,0
+20,Lilac,3456,or like,0,0,0,0,0,0,0,0,0,0
+20,Dark Oud,3457,like a tree or something along those lines,1,0,0,0,0,0,0,0,0,0
+20,Dark Oud,3458,like im smelling a piece of wood,1,0,0,0,0,0,0,0,0,0
+20,Wattle,3459,bubblegum,1,0,0,0,0,0,0,0,0,0
+20,Wattle,3460,or like some sort of candy,1,0,0,0,0,0,0,0,0,0
+20,Rosewood,3461,fuck what is it,0,0,0,0,0,0,0,0,0,0
+20,Rosewood,3462,"some kind of herb, i cant remember the name",1,0,0,0,0,0,0,0,0,0
+20,Orange Blossom,3463,oh umm oh my god,0,0,0,0,0,0,0,0,0,0
+20,Orange Blossom,3464,i dont know what they call it but its literally what i used as a kid for my shampoo,1,0,0,0,0,0,0,0,0,0
+20,Orange Blossom,3465,cant remember the brand,0,0,0,0,0,0,0,0,0,0
+20,Grapefruit,3466,hmm,0,0,0,0,0,0,0,0,0,0
+20,Grapefruit,3467,exactly the same as the other one for some reason,1,0,0,0,0,0,0,0,0,0
+20,Grapefruit,3468,i would say baby i dont know shampoo you use as a baby,1,0,0,0,0,0,0,0,0,0
+20,Grapefruit,3469,cologne,1,0,0,0,0,0,0,0,0,0
+20,Grapefruit,3470,you use as a baby,1,0,0,0,0,0,0,0,0,0
+20,Grapefruit,3471,for a baby,1,0,0,0,0,0,0,0,0,0
+20,Grapefruit,3472,for like to make them smell nice,0,1,0,0,0,0,0,0,0,0
+20,Chamomile,3473,oh,0,0,0,0,0,0,0,0,0,0
+20,Chamomile,3474,fuck,0,0,0,0,0,0,0,0,0,0
+20,Chamomile,3475,dont know how to say it but some kind of alcohol like a strong alcohol like a storng spirit,1,0,0,0,0,0,0,0,0,0
+20,Chamomile,3476,but very similar to the candy one,1,0,0,0,0,0,0,0,0,0
+20,Chamomile,3477,but a stronger smell,0,0,0,1,0,0,0,0,0,0
+20,White Tea,3478,grass,1,0,0,0,0,0,0,0,0,0
+20,Cardamom,3479,i dont know if this is right but it smells like chilli,1,0,0,0,0,0,0,0,0,0
+20,Cardamom,3480,like what chilli would taste like if you smell it,1,0,0,0,0,0,0,0,0,0
+20,Almond,3481,oh medicine,1,0,0,0,0,0,0,0,0,0
+20,Almond,3482,cough syrup,1,0,0,0,0,0,0,0,0,0
+20,Civet,3483,dont really have a smell for this,0,0,0,0,0,0,0,0,0,0
+20,Civet,3484,umm,0,0,0,0,0,0,0,0,0,0
+20,Civet,3485,i actually dont know,0,0,0,0,0,0,0,0,0,0
+20,Civet,3486,id say like,0,0,0,0,0,0,0,0,0,0
+20,Civet,3487,some kind of perfume that id use,1,0,0,0,0,0,0,0,0,0
+20,Civet,3488,thats the only description i can give for that one,0,0,0,0,0,0,0,0,0,0
+20,Frankincense,3489,I would say,0,0,0,0,0,0,0,0,0,0
+20,Frankincense,3490,like this legit smells like when i go to church,1,0,0,0,0,0,0,0,0,0
+20,Frankincense,3491,like catholic cuhrch,1,0,0,0,0,0,0,0,0,0
+20,Frankincense,3492,what they use as an incense,1,0,0,0,0,0,0,0,0,0
+20,Geranium,3493,hmm,0,0,0,0,0,0,0,0,0,0
+20,Geranium,3494,i have a smell for this,0,0,0,0,0,0,0,0,0,0
+20,Geranium,3495,id say like some kind of flower but i dont know which one,1,0,0,0,0,0,0,0,0,0
+20,Geranium,3496,some kind of lavender,1,0,0,0,0,0,0,0,0,0
+20,Sandalwood,3497,i would say this one smells like,0,0,0,0,0,0,0,0,0,0
+20,Sandalwood,3498,dont know if its acurate,0,0,0,0,0,0,0,0,0,0
+20,Sandalwood,3499,lavender,1,0,0,0,0,0,0,0,0,0
+20,Sandalwood,3500,some kind of flower i just dont know which one,1,0,0,0,0,0,0,0,0,0
+20,Lily of the Valley,3501,spices again like a strong,1,0,0,1,0,0,0,0,0,0
+20,Lily of the Valley,3502,cant say what spice,0,0,0,0,0,0,0,0,0,0
+20,Lily of the Valley,3503,"its like that stick, brown stick whats it called",1,0,0,0,0,0,0,0,0,0
+20,Lily of the Valley,3504,i dont know its like a strong spice to me,1,0,0,1,0,0,0,0,0,0
+20,Cedar,3505,umm alcohol,1,0,0,0,0,0,0,0,0,0
+20,Cedar,3506,dont know what because i dont drink,0,0,0,0,0,0,0,0,0,0
+20,Cedramber,3507,oh my god fuck,0,0,0,0,0,0,0,0,0,0
+20,Cedramber,3508,ginger? yeah ginger,2,0,0,0,0,0,0,0,0,0
+20,Sea Minerals,3509,ah fuck,0,0,0,0,0,0,0,0,0,0
+20,Sea Minerals,3510,trying to memorise like recall what it is but i just cant,0,0,0,0,0,0,0,0,0,0
+20,Sea Minerals,3511,oh whats it smell like,0,0,0,0,0,0,0,0,0,0
+20,Sea Minerals,3512,smells like a sri lankan food i used to have as a kid i just cant recall what it is,1,0,0,0,0,0,0,0,0,0
+20,Sea Minerals,3513,oh my god that literally takes me back to like kindergarten,0,0,0,0,0,0,1,0,0,0
+20,Labdanum,3514,alcohol straight away ,1,0,0,0,0,0,0,0,0,0
+20,Labdanum,3515,i would say,0,0,0,0,0,0,0,0,0,0
+20,Ambergris,3516,its like a hint of ginger again,1,0,0,0,0,0,0,0,0,0
+20,Ambergris,3517,but same as alcohol just a little different,1,0,0,0,0,1,0,0,0,0
+20,Vetiver,3518,chlorine,1,0,0,0,0,0,0,0,0,0
+20,Vetiver,3519,reminds me of a swimming pool,1,0,0,0,0,0,0,0,0,0
+20,Musk,3520,its flowers again,1,0,0,0,0,0,0,0,0,0
+20,Musk,3521,just dont know which flower,0,0,0,0,0,0,0,0,0,0
+20,Geosmin,3522,i would say spice umm but,1,0,0,0,0,0,0,0,0,0
+20,Geosmin,3523,but what is it called,0,0,0,0,0,0,0,0,0,0
+20,Geosmin,3524,just dont know what its called,0,0,0,0,0,0,0,0,0,0
+20,Geosmin,3525,id go with spices,1,0,0,0,0,0,0,0,0,0
+20,Ginger,3526,oh my god what is this,0,0,0,0,0,0,0,0,0,0
+20,Ginger,3527,hmm this smells like one of the teas at gong cha,1,0,0,0,0,0,0,0,0,0
+20,Ginger,3528,i tihnk its earl grey pretty sure,1,0,0,0,0,0,0,0,0,0
+20,Ginger,3529,its a pretty distinctive smell,0,0,0,0,0,1,0,0,0,0
+20,Clove,3530,fuck its a seed that i use in food,1,0,0,0,0,0,0,0,0,0
+20,Clove,3531,and when i bite into it it doesnt taste nice,0,0,1,0,0,0,0,0,0,0
+20,Clove,3532,not a seed fuck dont know what its called,0,0,0,0,0,0,0,0,0,0
+20,Clove,3533,i dont know what its called,0,0,0,0,0,0,0,0,0,0
+20,Clove,3534,"but id say like most of them have been, thats spice",1,0,0,0,0,0,0,0,0,0
+20,Clove,3535,or its like a food additive,1,0,0,0,0,0,0,0,0,0
+20,Green Fig,3536,one of the perfumes i have at home,1,0,0,0,0,0,0,0,0,0
+20,Green Fig,3537,and its something else too,0,0,0,0,0,0,0,0,0,0
+20,Green Fig,3538,i feel like its one of the,0,0,0,0,0,0,0,0,0,0
+20,Green Fig,3539,dunno what fruit but it reminds me of fruit for some reason,2,0,0,0,0,0,0,0,0,0
+20,Patchouli,3540,ginger again,1,0,0,0,0,0,0,0,0,0
+20,Lavender,3541,smells like last time i went on a holiday,1,0,0,0,0,0,0,0,0,0
+20,Lavender,3542,like the house,1,0,0,0,0,0,0,0,0,0
+20,Lavender,3543,thats the only thing that hits me straight away,0,0,0,0,0,0,0,0,0,0
+20,Guaiacol,3544,this smells like gone off food,1,0,0,0,0,0,0,0,0,0
+20,Guaiacol,3545,yep,0,0,0,0,0,0,0,0,0,0
+20,Floral Ozone,3546,chlorine again or like,1,0,0,0,0,0,0,0,0,0
+20,Floral Ozone,3547,yeah chlorine,1,0,0,0,0,0,0,0,0,0
+20,Honeysuckle,3548,smells the same,1,0,0,0,0,0,0,0,0,0
+20,Honeysuckle,3549,this smells like my calvin klein perfume,1,0,0,0,0,0,0,0,0,0
+20,Wintergreen,3550,oh umm vaporub,1,0,0,0,0,0,0,0,0,0
+20,Wintergreen,3551,like vicks i think,1,0,0,0,0,0,0,0,0,0
+20,Apricot,3552,smells like lollies or like snakes,2,0,0,0,0,0,0,0,0,0
+20,Apricot,3553,the pack,0,0,0,0,0,0,0,0,0,0
+20,Nutmeg,3554,for some reason it smells like,0,0,0,0,0,0,0,0,0,0
+20,Nutmeg,3555,i dont know if this is the right word or the right spice,0,0,0,0,0,0,0,0,0,0
+20,Nutmeg,3556,but cumin?,1,0,0,0,0,0,0,0,0,0
+20,Nutmeg,3557,like the powder,1,0,0,0,0,0,0,0,0,0
+20,Sweet Vanilla,3558,oh my god vanilla,1,0,0,0,0,0,0,0,0,0
+20,Sweet Vanilla,3559,like vanilla air freshener,2,0,0,0,0,0,0,0,0,0
+20,Caraway Seed,3560,oh big mac,1,0,0,0,0,0,0,0,0,0
+20,Caraway Seed,3561,oh yea hthis smells like a big mac oh,1,0,0,0,0,0,0,0,0,0
+20,Caraway Seed,3562,id say i dont know like for some reason im thinking like,0,0,0,0,0,0,0,0,0,0
+20,Caraway Seed,3563,savoury oily food and big mac sauce,3,0,0,0,0,1,0,0,0,0
+20,Magnolia,3564,umm smells like rose,1,0,0,0,0,0,0,0,0,0
+20,Magnolia,3565,like,0,0,0,0,0,0,0,0,0,0
+20,Magnolia,3566,rose syrup,1,0,0,0,0,0,0,0,0,0
+20,Magnolia,3567,that would i dont know,0,0,0,0,0,0,0,0,0,0
+20,Leather,3568,oh my god,0,0,0,0,0,0,0,0,0,0
+20,Leather,3569,i dont know how to say it,0,0,0,0,0,0,0,0,0,0
+20,Leather,3570,for some reason im thinking like a block of wood,1,0,0,0,0,0,0,0,0,0
+20,Leather,3571,or like a fershly sprayed deck,1,0,0,0,0,1,0,0,0,0
+20,Mint,3572,oh mint or chewing gum,2,0,0,0,0,0,0,0,0,0
+20,White Musk,3573,i dont have a description for this,0,0,0,0,0,0,0,0,0,0
+20,White Musk,3574,it smells like,0,0,0,0,0,0,0,0,0,0
+20,White Musk,3575,i dontknow for some reason im thinking the saem as the block of wood i was talking about before,1,0,0,0,0,0,0,0,0,0
+20,White Musk,3576,like a tree i would say as well,1,0,0,0,0,0,0,0,0,0
+21,Lilac,3577,oh my god i know this,0,0,0,0,0,0,1,0,0,0
+21,Lilac,3578,smells like candle,1,0,0,0,0,0,0,0,0,0
+21,Lilac,3579,flower,1,0,0,0,0,0,0,0,0,0
+21,Lilac,3580,smells like soap,1,0,0,0,0,0,0,0,0,0
+21,Frankincense,3581,smells like a candle,1,0,0,0,0,0,0,0,0,0
+21,Frankincense,3582,are these all candle smells like flowers,2,0,0,0,0,0,0,0,0,0
+21,Frankincense,3583,is this menthol?,1,0,0,0,0,0,0,0,0,0
+21,Frankincense,3584,ok i think its menthol,1,0,0,0,0,0,0,0,0,0
+21,Almond,3585,oh this is cherry like umm the starburst cherry,2,0,0,0,0,0,0,0,0,0
+21,Almond,3586,the red one,0,0,0,0,0,0,0,0,0,0
+21,Almond,3587,smells like that,0,0,0,0,0,0,0,0,0,0
+21,Sea Minerals,3588,this one smells like cologne,1,0,0,0,0,0,0,0,0,0
+21,Sea Minerals,3589,mens cologne,1,0,0,0,0,0,0,0,0,0
+21,Sea Minerals,3590,like lynx,1,0,0,0,0,0,0,0,0,0
+21,Geranium,3591,this is rose i feel,1,0,0,0,0,0,0,0,0,0
+21,Labdanum,3592,smells like,0,0,0,0,0,0,0,0,0,0
+21,Labdanum,3593,like,0,0,0,0,0,0,0,0,0,0
+21,Labdanum,3594,like liquor like dark in chocolate liquor you know,2,0,0,0,0,0,0,0,0,0
+21,Labdanum,3595,i dont know,0,0,0,0,0,0,0,0,0,0
+21,Wattle,3596,lavender,1,0,0,0,0,0,0,0,0,0
+21,Chamomile,3597,oh stinks,0,0,1,0,0,0,0,0,0,0
+21,Chamomile,3598,that just shook me to the core,0,0,0,0,0,0,0,0,1,0
+21,Chamomile,3599,oh this,0,0,0,0,0,0,0,0,0,0
+21,Chamomile,3600,oh,0,0,0,0,0,0,0,0,0,0
+21,Chamomile,3601,alcohol,1,0,0,0,0,0,0,0,0,0
+21,Cedramber,3602,smells like i dont know,0,0,0,0,0,0,0,0,0,0
+21,Cedramber,3603,wait cant smell,0,0,0,0,0,0,0,0,0,0
+21,Cedramber,3604,this one just smells like,0,0,0,0,0,0,0,0,0,0
+21,Cedramber,3605,just smells like soap,1,0,0,0,0,0,0,0,0,0
+21,Cedramber,3606,soap,1,0,0,0,0,0,0,0,0,0
+21,Cedramber,3607,this smells like you know when you go to like candles stores,1,0,0,0,0,0,0,0,0,0
+21,Cedramber,3608,just smells they all smell the same,1,0,0,0,0,0,0,0,0,0
+21,Civet,3609,this smells like baby powder,1,0,0,0,0,0,0,0,0,0
+21,Civet,3610,yeah,0,0,0,0,0,0,0,0,0,0
+21,Civet,3611,maybe,0,0,0,0,0,0,0,0,0,0
+21,Dark Oud,3612,ugh,0,0,0,0,0,0,0,0,0,0
+21,Dark Oud,3613,like toxic,0,0,1,0,0,1,0,0,0,0
+21,Dark Oud,3614,smells like petrol,1,0,0,0,0,0,0,0,0,0
+21,Dark Oud,3615,i dont like that one,0,0,1,0,0,0,0,0,0,0
+21,Dark Oud,3616,umm smells like fumes,1,0,0,0,0,0,0,0,0,0
+21,Dark Oud,3617,like chemical fumes,1,0,0,0,0,0,0,0,0,0
+21,Orange Blossom,3618,im losing words i dont know what else to say,0,0,0,0,0,0,0,0,0,0
+21,Orange Blossom,3619,smells like a flower,1,0,0,0,0,0,0,0,0,0
+21,Orange Blossom,3620,rose i think ive said that before,1,0,0,0,0,0,0,0,0,0
+21,Orange Blossom,3621,yeah rose,1,0,0,0,0,0,0,0,0,0
+21,Guaiacol,3622,this smells like a wet towel,1,0,0,0,0,1,0,0,0,0
+21,Guaiacol,3623,you know like a wet towel that hasnt properly dried up,1,0,0,0,0,1,0,0,0,0
+21,Ginger,3624,this is really hard,0,0,0,0,0,0,0,0,0,0
+21,Ginger,3625,smells like hmm,0,0,0,0,0,0,0,0,0,0
+21,Ginger,3626,grapes,1,0,0,0,0,0,0,0,0,0
+21,Ginger,3627,but also with a little bit of menthol in it,1,0,0,0,0,0,0,0,0,0
+21,Cedar,3628,it stinks,0,0,1,0,0,0,0,0,0,0
+21,Cedar,3629,hmm,0,0,0,0,0,0,0,0,0,0
+21,Cedar,3630,it smells the same as something else ive smelt earlier,1,0,0,0,0,0,0,0,0,0
+21,Cedar,3631,smells like liquor,1,0,0,0,0,0,0,0,0,0
+21,Apricot,3632,this one smells like sweet,0,0,0,0,0,1,0,0,0,0
+21,Apricot,3633,mango,1,0,0,0,0,0,0,0,0,0
+21,Apricot,3634,mango passionfruit,2,0,0,0,0,0,0,0,0,0
+21,Apricot,3635,like fruity,1,0,0,0,0,0,0,0,0,0
+21,Nutmeg,3636,oh the worst smell,0,0,1,0,0,0,0,0,0,0
+21,Nutmeg,3637,this one stinks,0,0,1,0,0,0,0,0,0,0
+21,Nutmeg,3638,smells like grass,1,0,0,0,0,0,0,0,0,0
+21,Nutmeg,3639,actually maybe not grass,1,0,0,0,0,0,0,0,0,0
+21,Nutmeg,3640,it smells like chinese medicine,1,0,0,0,0,0,0,0,0,0
+21,Mangolia,3641,smells like perfume,1,0,0,0,0,0,0,0,0,0
+21,Mangolia,3642,like a floral perfume,2,0,0,0,0,0,0,0,0,0
+21,Mangolia,3643,yeah,0,0,0,0,0,0,0,0,0,0
+21,Geosmin,3644,this smells like a wood spice,1,0,0,0,0,0,0,0,0,0
+21,Geosmin,3645,like spicy,1,0,0,0,0,0,0,0,0,0
+21,Geosmin,3646,old spice,1,0,0,0,0,0,0,0,0,0
+21,Geosmin,3647,i dont know what you call men deoderant,1,0,0,0,0,0,0,0,0,0
+21,Geosmin,3648,spice,1,0,0,0,0,0,0,0,0,0
+21,Wintergreen,3649,this one smells like chinese medicine,1,0,0,0,0,0,0,0,0,0
+21,Wintergreen,3650,like a tiger balm,1,0,0,0,0,0,0,0,0,0
+21,Wintergreen,3651,"like massage, you know when massaging",1,0,0,0,0,0,0,0,0,0
+21,Lavender,3652,smells like a toilet air freshener,1,0,0,0,0,0,0,0,0,0
+21,Grapefruit,3653,this one smells like insect repellant,1,0,0,0,0,0,0,0,0,0
+21,Vetiver,3654,just like feet,1,0,0,0,0,0,0,0,0,0
+21,Vetiver,3655,smells like feet,1,0,0,0,0,0,0,0,0,0
+21,Floral Ozone,3656,hmm,0,0,0,0,0,0,0,0,0,0
+21,Floral Ozone,3657,smells,0,0,0,0,0,0,0,0,0,0
+21,Floral Ozone,3658,i dont know how to describe it,0,0,0,0,0,0,0,0,0,0
+21,Floral Ozone,3659,i dont know this one is a hard one,0,0,0,0,0,0,0,0,0,0
+21,Floral Ozone,3660,just smells woody,0,0,0,0,0,1,0,0,0,0
+21,Floral Ozone,3661,thats all i can describe that one,0,0,0,0,0,0,0,0,0,0
+21,Floral Ozone,3662,actually no it smells like the forest,1,0,0,0,0,0,0,0,0,0
+21,Floral Ozone,3663,rain forest,1,0,0,0,0,0,0,0,0,0
+21,Floral Ozone,3664,its got that like grassy smell,1,0,0,0,0,0,0,0,0,0
+21,Patchouli,3665,that stinks,0,0,1,0,0,0,0,0,0,0
+21,Patchouli,3666,just very spicy,1,0,0,0,0,0,0,0,0,0
+21,Patchouli,3667,like smells like chocolate and spice,2,0,0,0,0,0,0,0,0,0
+21,Rosewood,3668,"smells like corriander, corriander",2,0,0,0,0,0,0,0,0,0
+21,Ambergris,3669,its very sweet,0,0,0,0,0,1,0,0,0,0
+21,Ambergris,3670,smells like umm you know textas you know when you sniff it,1,0,0,0,0,0,0,0,0,0
+21,Ambergris,3671,smells like that,0,0,0,0,0,0,0,0,0,0
+21,Cardamom,3672,ugh that one stinks,0,0,1,0,0,0,0,0,0,0
+21,Cardamom,3673,that one smells like um like umm,0,0,0,0,0,0,0,0,0,0
+21,Cardamom,3674,geez that stinks,0,0,1,0,0,0,0,0,0,0
+21,Cardamom,3675,smells like umm like off like fish,1,0,0,0,0,1,0,0,0,0
+21,Cardamom,3676,meat,1,0,0,0,0,0,0,0,0,0
+21,Cardamom,3677,ugh,0,0,1,0,0,0,0,0,0,0
+21,White Tea,3678,oh my gosh i know this smell,0,0,0,0,0,0,1,0,0,0
+21,White Tea,3679,lemongrass,1,0,0,0,0,0,0,0,0,0
+21,White Tea,3680,i think,0,0,0,0,0,0,0,0,0,0
+21,Sandalwood,3681,this ones very woody,1,0,0,0,0,0,0,0,0,0
+21,Sandalwood,3682,i think i said that for every second one,0,0,0,0,0,0,0,0,0,0
+21,Sandalwood,3683,yeah just woody,1,0,0,0,0,0,0,0,0,0
+21,White Musk,3684,hmm,0,0,0,0,0,0,0,0,0,0
+21,White Musk,3685,very,0,0,0,0,0,0,0,0,0,0
+21,White Musk,3686,it smells like fumes,1,0,0,0,0,0,0,0,0,0
+21,White Musk,3687,chemical fumes,1,0,0,0,0,0,0,0,0,0
+21,White Musk,3688,like in a labratory,1,0,0,0,0,0,0,0,0,0
+21,White Musk,3689,actually,0,0,0,0,0,0,0,0,0,0
+21,White Musk,3690,i dont know how to describe it,0,0,0,0,0,0,0,0,0,0
+21,White Musk,3691,just smells like chemical fumes i cant,1,0,0,0,0,0,0,0,0,0
+21,Clove,3692,ugh ugh that one stinks as well,0,0,1,0,0,0,0,0,0,0
+21,Clove,3693,oh,0,0,0,0,0,0,0,0,0,0
+21,Clove,3694,i know this smell but,0,0,0,0,0,0,1,0,0,0
+21,Clove,3695,umm,0,0,0,0,0,0,0,0,0,0
+21,Clove,3696,grass?,1,0,0,0,0,0,0,0,0,0
+21,Clove,3697,like,0,0,0,0,0,0,0,0,0,0
+21,Clove,3698,umm,0,0,0,0,0,0,0,0,0,0
+21,Clove,3699,hmm,0,0,0,0,0,0,0,0,0,0
+21,Clove,3700,i dont know,0,0,0,0,0,0,0,0,0,0
+21,Clove,3701,i dont really,0,0,0,0,0,0,0,0,0,0
+21,Clove,3702,its got i dont know strong,0,0,0,1,0,0,0,0,0,0
+21,Clove,3703,strong like,0,0,0,1,0,0,0,0,0,0
+21,Clove,3704,what smells like that,0,0,0,0,0,0,0,0,0,0
+21,Clove,3705,i dont know it smells like old wet decomposing grass,1,0,0,0,0,0,0,0,0,0
+21,Honeysuckle,3706,flower,1,0,0,0,0,0,0,0,0,0
+21,Honeysuckle,3707,i tihnk like cherry blossom maybe,1,0,0,0,0,0,0,0,0,0
+21,Honeysuckle,3708,flower,1,0,0,0,0,0,0,0,0,0
+21,Honeysuckle,3709,hmm,0,0,0,0,0,0,0,0,0,0
+21,Honeysuckle,3710,candle,1,0,0,0,0,0,0,0,0,0
+21,Green Fig,3711,this smells like tobacco,1,0,0,0,0,0,0,0,0,0
+21,Green Fig,3712,yeah i think so,0,0,0,0,0,0,0,0,0,0
+21,Musk,3713,this smells like,0,0,0,0,0,0,0,0,0,0
+21,Musk,3714,smells like toilet freshener,1,0,0,0,0,0,0,0,0,0
+21,Musk,3715,air freshener,1,0,0,0,0,0,0,0,0,0
+21,Musk,3716,smells like leaves,1,0,0,0,0,0,0,0,0,0
+21,Musk,3717,yeah im sticking with leaves,1,0,0,0,0,0,0,0,0,0
+21,Musk,3718,smells like leaves to me,1,0,0,0,0,0,0,0,0,0
+21,Caraway Seed,3719,this smells like really really strong candy,1,0,0,1,0,0,0,0,0,0
+21,Caraway Seed,3720,maybe like marshmellow,1,0,0,0,0,0,0,0,0,0
+21,Caraway Seed,3721,strawberry? im losing it,1,0,0,0,0,0,0,0,0,0
+21,Sweet Vanilla,3722,this is caramel,1,0,0,0,0,0,0,0,0,0
+21,Sweet Vanilla,3723,vanilla caramel,2,0,0,0,0,0,0,0,0,0
+21,Leather,3724,just smells like wood,1,0,0,0,0,0,0,0,0,0
+21,Leather,3725,wood and spice,2,0,0,0,0,0,0,0,0,0
+21,Leather,3726,i realy need to up my vocabulary when it comes to scentss,0,0,0,0,0,0,0,0,0,0
+21,Mint,3727,this smells like peppermint or spearmint,2,0,0,0,0,0,0,0,0,0
+21,Mint,3728,when it comes to food i know,0,0,0,0,0,0,0,0,0,0
+21,Lily of the Valley,3729,ive said rose already,1,0,0,0,0,0,0,0,0,0
+21,Lily of the Valley,3730,many times,0,0,0,0,0,0,0,0,0,0
+21,Lily of the Valley,3731,flower,1,0,0,0,0,0,0,0,0,0
+21,Lily of the Valley,3732,hmm,0,0,0,0,0,0,0,0,0,0
+21,Lily of the Valley,3733,rose,1,0,0,0,0,0,0,0,0,0
+21,Lily of the Valley,3734,im just gonna stick to rose again,1,0,0,0,0,0,0,0,0,0
+21,Lily of the Valley,3735,what other flowers are there,0,0,0,0,0,0,0,0,0,0
+21,Lily of the Valley,3736,actually jasmine,1,0,0,0,0,0,0,0,0,0
